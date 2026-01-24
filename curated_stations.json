@@ -63,13 +63,6 @@
     "genre": "Eclectic"
   },
   {
-    "id": "curated-radio-paradise-rock-heavy-mix",
-    "name": "Radio Paradise Rock Heavy Mix",
-    "streamURL": "https://stream.radioparadise.com/aac-128",
-    "countryCode": "US",
-    "genre": "Rock"
-  },
-  {
     "id": "curated-rock-antenne-main",
     "name": "Rock Antenne",
     "streamURL": "https://stream.rockantenne.de/rockantenne.mp3",
@@ -110,20 +103,6 @@
     "streamURL": "https://s2.audiostream.hu/juventus_192k",
     "countryCode": "HU",
     "genre": "Pop"
-  },
-  {
-    "id": "curated-radio-paradise-pop-eclectic",
-    "name": "Radio Paradise Pop & Eclectic",
-    "streamURL": "https://stream.radioparadise.com/aac-128",
-    "countryCode": "US",
-    "genre": "Pop"
-  },
-  {
-    "id": "curated-radio-paradise-classic-rock-mix",
-    "name": "Radio Paradise Classic Rock Mix",
-    "streamURL": "https://stream.radioparadise.com/aac-128",
-    "countryCode": "US",
-    "genre": "Rock"
   },
   {
     "id": "curated-classic-fm-uk",
