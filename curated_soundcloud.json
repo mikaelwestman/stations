@@ -125,5 +125,6 @@
   {"id": "soundcloud-isleofwax", "name": "Isle of Wax", "profileURL":
 "https://soundcloud.com/isleofwax", "countryCode": "AU", "city": "Sydney"},
   {"id": "soundcloud-retreatradio", "name": "Retreat Radio", "profileURL":
-"https://soundcloud.com/retreatradio", "countryCode": "GB", "city": "London"}
+"https://soundcloud.com/retreatradio", "countryCode": "GB", "city": "London"},
+  {"id": "soundcloud-soulection", "name": "Soulection", "profileURL": "https://soundcloud.com/soulection", "countryCode": "US", "city": "Los Angeles"}
 ] 
