@@ -1,129 +1,129 @@
 [
   {"id": "soundcloud-kioskradio", "name": "Kiosk Radio", "profileURL":
-"https://soundcloud.com/kioskradio", "countryCode": null},
+"https://soundcloud.com/kioskradio", "countryCode": "BE", "city": "Brussels"},
   {"id": "soundcloud-user-202286394-991268468", "name": "NTS Radio",
 "profileURL": "https://soundcloud.com/user-202286394-991268468", "countryCode":
-null},
+"GB", "city": "London"},
   {"id": "soundcloud-nachtdigital", "name": "Nachtdigital", "profileURL":
-"https://soundcloud.com/nachtdigital", "countryCode": null},
+"https://soundcloud.com/nachtdigital", "countryCode": "DE", "city": "Berlin"},
   {"id": "soundcloud-thelotradio", "name": "The Lot Radio", "profileURL":
-"https://soundcloud.com/thelotradio", "countryCode": null},
+"https://soundcloud.com/thelotradio", "countryCode": "US", "city": "Brooklyn"},
   {"id": "soundcloud-lithium-radio", "name": "Lithium Radio", "profileURL":
-"https://soundcloud.com/lithium-radio", "countryCode": null},
+"https://soundcloud.com/lithium-radio", "countryCode": "BE", "city": "Ostend"},
   {"id": "soundcloud-noodsradio", "name": "Noods Radio", "profileURL":
-"https://soundcloud.com/noodsradio", "countryCode": null},
+"https://soundcloud.com/noodsradio", "countryCode": "GB", "city": "Bristol"},
   {"id": "soundcloud-kurs_radio", "name": "Kurs Radio", "profileURL":
-"https://soundcloud.com/kurs_radio", "countryCode": null},
+"https://soundcloud.com/kurs_radio", "countryCode": "DE", "city": "Berlin"},
   {"id": "soundcloud-solace-bar-radio", "name": "Solace Bar Radio",
-"profileURL": "https://soundcloud.com/solace-bar-radio", "countryCode": null},
+"profileURL": "https://soundcloud.com/solace-bar-radio", "countryCode": "GB", "city": "London"},
   {"id": "soundcloud-radio80000", "name": "Radio 80000", "profileURL":
-"https://soundcloud.com/radio80000", "countryCode": null},
+"https://soundcloud.com/radio80000", "countryCode": "DE", "city": "Munich"},
   {"id": "soundcloud-drama-radio-bar", "name": "Drama Radio Bar", "profileURL":
-"https://soundcloud.com/drama-radio-bar", "countryCode": null},
+"https://soundcloud.com/drama-radio-bar", "countryCode": "KR", "city": "Seoul"},
   {"id": "soundcloud-crop-radio", "name": "Crop Radio", "profileURL":
-"https://soundcloud.com/crop-radio", "countryCode": null},
+"https://soundcloud.com/crop-radio", "countryCode": "NL", "city": "Amsterdam"},
   {"id": "soundcloud-radioalhara", "name": "Radio Alhara", "profileURL":
-"https://soundcloud.com/radioalhara", "countryCode": null},
+"https://soundcloud.com/radioalhara", "countryCode": "PS", "city": "Bethlehem"},
   {"id": "soundcloud-sauna-radio", "name": "Sauna Radio", "profileURL":
-"https://soundcloud.com/sauna-radio", "countryCode": null},
+"https://soundcloud.com/sauna-radio", "countryCode": "AT", "city": "Vienna"},
   {"id": "soundcloud-radio-panini", "name": "Radio Panini", "profileURL":
-"https://soundcloud.com/radio-panini", "countryCode": null},
+"https://soundcloud.com/radio-panini", "countryCode": "DK", "city": "Copenhagen"},
   {"id": "soundcloud-mot-radio", "name": "MOT Radio", "profileURL":
-"https://soundcloud.com/mot-radio", "countryCode": null},
+"https://soundcloud.com/mot-radio", "countryCode": "HK", "city": "Hong Kong"},
   {"id": "soundcloud-drift-radio", "name": "Drift Radio", "profileURL":
-"https://soundcloud.com/drift-radio", "countryCode": null},
+"https://soundcloud.com/drift-radio", "countryCode": "JP", "city": "Tokyo"},
   {"id": "soundcloud-voicesradio_ldn", "name": "Voices Radio LDN", "profileURL":
- "https://soundcloud.com/voicesradio_ldn", "countryCode": null},
+ "https://soundcloud.com/voicesradio_ldn", "countryCode": "GB", "city": "London"},
   {"id": "soundcloud-radio-sofa", "name": "Radio Sofa", "profileURL":
-"https://soundcloud.com/radio-sofa", "countryCode": null},
+"https://soundcloud.com/radio-sofa", "countryCode": "FR", "city": "Paris"},
   {"id": "soundcloud-pluto_radio", "name": "Pluto Radio", "profileURL":
-"https://soundcloud.com/pluto_radio", "countryCode": null},
+"https://soundcloud.com/pluto_radio", "countryCode": "AU", "city": "Melbourne"},
   {"id": "soundcloud-radio-hinter", "name": "Radio Hinter", "profileURL":
-"https://soundcloud.com/radio-hinter", "countryCode": null},
+"https://soundcloud.com/radio-hinter", "countryCode": "DE", "city": "Berlin"},
   {"id": "soundcloud-shella-radio", "name": "Shella Radio", "profileURL":
-"https://soundcloud.com/shella-radio", "countryCode": null},
+"https://soundcloud.com/shella-radio", "countryCode": "GB", "city": "London"},
   {"id": "soundcloud-netil-radio", "name": "Netil Radio", "profileURL":
-"https://soundcloud.com/netil-radio", "countryCode": null},
+"https://soundcloud.com/netil-radio", "countryCode": "GB", "city": "London"},
   {"id": "soundcloud-om_radio", "name": "OM Radio", "profileURL":
-"https://soundcloud.com/om_radio", "countryCode": null},
+"https://soundcloud.com/om_radio", "countryCode": "UA", "city": "Kyiv"},
   {"id": "soundcloud-rough-radio", "name": "Rough Radio", "profileURL":
-"https://soundcloud.com/rough-radio", "countryCode": null},
+"https://soundcloud.com/rough-radio", "countryCode": "GB", "city": "Brighton"},
   {"id": "soundcloud-toharadio", "name": "Toha Radio", "profileURL":
-"https://soundcloud.com/toharadio", "countryCode": null},
+"https://soundcloud.com/toharadio", "countryCode": "GE", "city": "Tbilisi"},
   {"id": "soundcloud-venn-radio", "name": "Venn Radio", "profileURL":
-"https://soundcloud.com/venn-radio", "countryCode": null},
+"https://soundcloud.com/venn-radio", "countryCode": "AU", "city": "Sydney"},
   {"id": "soundcloud-lyl_radio", "name": "LYL Radio", "profileURL":
-"https://soundcloud.com/lyl_radio", "countryCode": null},
+"https://soundcloud.com/lyl_radio", "countryCode": "FR", "city": "Lyon"},
   {"id": "soundcloud-pinataradio", "name": "Pinata Radio", "profileURL":
-"https://soundcloud.com/pinataradio", "countryCode": null},
+"https://soundcloud.com/pinataradio", "countryCode": "FR", "city": "Paris"},
   {"id": "soundcloud-ida_radio", "name": "IDA Radio", "profileURL":
-"https://soundcloud.com/ida_radio", "countryCode": null},
+"https://soundcloud.com/ida_radio", "countryCode": "TR", "city": "Istanbul"},
   {"id": "soundcloud-radioraheem_milano", "name": "Radio Raheem Milano",
-"profileURL": "https://soundcloud.com/radioraheem_milano", "countryCode": null},
+"profileURL": "https://soundcloud.com/radioraheem_milano", "countryCode": "IT", "city": "Milan"},
   {"id": "soundcloud-mutantradio", "name": "Mutant Radio", "profileURL":
-"https://soundcloud.com/mutantradio", "countryCode": null},
+"https://soundcloud.com/mutantradio", "countryCode": "GE", "city": "Tbilisi"},
   {"id": "soundcloud-stegi-radio-athens", "name": "Stegi Radio Athens",
-"profileURL": "https://soundcloud.com/stegi-radio-athens", "countryCode": null},
+"profileURL": "https://soundcloud.com/stegi-radio-athens", "countryCode": "GR", "city": "Athens"},
   {"id": "soundcloud-canino-fm", "name": "Canino FM", "profileURL":
-"https://soundcloud.com/canino-fm", "countryCode": null},
+"https://soundcloud.com/canino-fm", "countryCode": "PT", "city": "Lisbon"},
   {"id": "soundcloud-sutrofm", "name": "Sutro FM", "profileURL":
-"https://soundcloud.com/sutrofm", "countryCode": null},
+"https://soundcloud.com/sutrofm", "countryCode": "US", "city": "San Francisco"},
   {"id": "soundcloud-hoc-radio", "name": "HOC Radio", "profileURL":
-"https://soundcloud.com/hoc-radio", "countryCode": null},
+"https://soundcloud.com/hoc-radio", "countryCode": "BE", "city": "Brussels"},
   {"id": "soundcloud-comala-radio", "name": "Comala Radio", "profileURL":
-"https://soundcloud.com/comala-radio", "countryCode": null},
+"https://soundcloud.com/comala-radio", "countryCode": "MX", "city": "Mexico City"},
   {"id": "soundcloud-subtleradio", "name": "Subtle Radio", "profileURL":
-"https://soundcloud.com/subtleradio", "countryCode": null},
+"https://soundcloud.com/subtleradio", "countryCode": "GB", "city": "Manchester"},
   {"id": "soundcloud-narr-radio", "name": "Narr Radio", "profileURL":
-"https://soundcloud.com/narr-radio", "countryCode": null},
+"https://soundcloud.com/narr-radio", "countryCode": "TR", "city": "Istanbul"},
   {"id": "soundcloud-sphere_radio", "name": "Sphere Radio", "profileURL":
-"https://soundcloud.com/sphere_radio", "countryCode": null},
+"https://soundcloud.com/sphere_radio", "countryCode": "AR", "city": "Buenos Aires"},
   {"id": "soundcloud-sashamarieradio", "name": "Sasha Marie Radio",
-"profileURL": "https://soundcloud.com/sashamarieradio", "countryCode": null},
+"profileURL": "https://soundcloud.com/sashamarieradio", "countryCode": "US", "city": "New York"},
   {"id": "soundcloud-bangkokcommunityradio", "name": "Bangkok Community Radio",
 "profileURL": "https://soundcloud.com/bangkokcommunityradio", "countryCode":
-null},
+"TH", "city": "Bangkok"},
   {"id": "soundcloud-sound-metaphors", "name": "Sound Metaphors", "profileURL":
-"https://soundcloud.com/sound-metaphors", "countryCode": null},
+"https://soundcloud.com/sound-metaphors", "countryCode": "DE", "city": "Berlin"},
   {"id": "soundcloud-seoulcommunityradio", "name": "Seoul Community Radio",
 "profileURL": "https://soundcloud.com/seoulcommunityradio", "countryCode":
-null},
+"KR", "city": "Seoul"},
   {"id": "soundcloud-hydefm", "name": "Hyde FM", "profileURL":
-"https://soundcloud.com/hydefm", "countryCode": null},
+"https://soundcloud.com/hydefm", "countryCode": "GB", "city": "Manchester"},
   {"id": "soundcloud-gas-station-fm", "name": "Gas Station FM", "profileURL":
-"https://soundcloud.com/gas-station-fm", "countryCode": null},
+"https://soundcloud.com/gas-station-fm", "countryCode": "DE", "city": "Berlin"},
   {"id": "soundcloud-culturfm", "name": "Cultur FM", "profileURL":
-"https://soundcloud.com/culturfm", "countryCode": null},
+"https://soundcloud.com/culturfm", "countryCode": "ES", "city": "Madrid"},
   {"id": "soundcloud-particlefm", "name": "Particle FM", "profileURL":
-"https://soundcloud.com/particlefm", "countryCode": null},
+"https://soundcloud.com/particlefm", "countryCode": "US", "city": "San Francisco"},
   {"id": "soundcloud-vislamag", "name": "Visla Mag", "profileURL":
-"https://soundcloud.com/vislamag", "countryCode": null},
+"https://soundcloud.com/vislamag", "countryCode": "PL", "city": "Warsaw"},
   {"id": "soundcloud-tsubakifm", "name": "Tsubaki FM", "profileURL":
-"https://soundcloud.com/tsubakifm", "countryCode": null},
+"https://soundcloud.com/tsubakifm", "countryCode": "JP", "city": "Tokyo"},
   {"id": "soundcloud-strandedfm", "name": "Stranded FM", "profileURL":
-"https://soundcloud.com/strandedfm", "countryCode": null},
+"https://soundcloud.com/strandedfm", "countryCode": "AU", "city": "Melbourne"},
   {"id": "soundcloud-frittofm", "name": "Fritto FM", "profileURL":
-"https://soundcloud.com/frittofm", "countryCode": null},
+"https://soundcloud.com/frittofm", "countryCode": "IT", "city": "Bologna"},
   {"id": "soundcloud-loosefm", "name": "Loose FM", "profileURL":
-"https://soundcloud.com/loosefm", "countryCode": null},
+"https://soundcloud.com/loosefm", "countryCode": "IE", "city": "Dublin"},
   {"id": "soundcloud-worldwide-fm", "name": "Worldwide FM", "profileURL":
-"https://soundcloud.com/worldwide-fm", "countryCode": null},
+"https://soundcloud.com/worldwide-fm", "countryCode": "GB", "city": "London"},
   {"id": "soundcloud-vintagevoudou", "name": "Vintage Voudou", "profileURL":
-"https://soundcloud.com/vintagevoudou", "countryCode": null},
+"https://soundcloud.com/vintagevoudou", "countryCode": "DE", "city": "Berlin"},
   {"id": "soundcloud-wkcr", "name": "WKCR", "profileURL":
-"https://soundcloud.com/wkcr", "countryCode": null},
+"https://soundcloud.com/wkcr", "countryCode": "US", "city": "New York"},
   {"id": "soundcloud-swufm", "name": "SWU FM", "profileURL":
-"https://soundcloud.com/swufm", "countryCode": null},
+"https://soundcloud.com/swufm", "countryCode": "GB", "city": "Bristol"},
   {"id": "soundcloud-sistermidnightfm", "name": "Sister Midnight FM",
-"profileURL": "https://soundcloud.com/sistermidnightfm", "countryCode": null},
+"profileURL": "https://soundcloud.com/sistermidnightfm", "countryCode": "US", "city": "New York"},
   {"id": "soundcloud-ehfm", "name": "EHFM", "profileURL":
-"https://soundcloud.com/ehfm", "countryCode": null},
+"https://soundcloud.com/ehfm", "countryCode": "GB", "city": "Edinburgh"},
   {"id": "soundcloud-pilotradio", "name": "Pilot Radio", "profileURL":
-"https://soundcloud.com/pilotradio", "countryCode": null},
+"https://soundcloud.com/pilotradio", "countryCode": "AT", "city": "Vienna"},
   {"id": "soundcloud-mouthfullradio", "name": "Mouthfull Radio", "profileURL":
-"https://soundcloud.com/mouthfullradio", "countryCode": null},
+"https://soundcloud.com/mouthfullradio", "countryCode": "GB", "city": "London"},
   {"id": "soundcloud-isleofwax", "name": "Isle of Wax", "profileURL":
-"https://soundcloud.com/isleofwax", "countryCode": null},
+"https://soundcloud.com/isleofwax", "countryCode": "AU", "city": "Sydney"},
   {"id": "soundcloud-retreatradio", "name": "Retreat Radio", "profileURL":
-"https://soundcloud.com/retreatradio", "countryCode": null}
+"https://soundcloud.com/retreatradio", "countryCode": "GB", "city": "London"}
 ] 
