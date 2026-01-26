@@ -60,5 +60,8 @@
   {"id": "soundcloud-mouthfullradio", "name": "Mouthfull Radio", "profileURL": "https://soundcloud.com/mouthfullradio", "countryCode": "NZ", "city": "Aotearoa"},
   {"id": "soundcloud-isleofwax", "name": "Isle of Wax", "profileURL": "https://soundcloud.com/isleofwax", "countryCode": "DE", "city": "Hamburg"},
   {"id": "soundcloud-retreatradio", "name": "Retreat Radio", "profileURL": "https://soundcloud.com/retreatradio", "countryCode": "SE", "city": "Malmö"},
-  {"id": "soundcloud-soulection", "name": "Soulection", "profileURL": "https://soundcloud.com/soulection", "countryCode": "US", "city": "Los Angeles"}
+  {"id": "soundcloud-soulection", "name": "Soulection", "profileURL": "https://soundcloud.com/soulection", "countryCode": "US", "city": "Los Angeles"},
+  {"id": "soundcloud-nosignalradio", "name": "No Signal", "profileURL": "https://soundcloud.com/nosignalradio", "countryCode": "GB", "city": "London"},
+  {"id": "soundcloud-kexp", "name": "KEXP 90.3 FM", "profileURL": "https://soundcloud.com/kexp", "countryCode": "US", "city": "Seattle"},
+  {"id": "soundcloud-nitty-gritty-store-hours", "name": "Nitty Gritty Store Hours", "profileURL": "https://soundcloud.com/nitty-gritty-store-hours", "countryCode": "SE", "city": "Stockholm"}
 ]
