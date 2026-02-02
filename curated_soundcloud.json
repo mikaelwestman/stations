@@ -54,7 +54,6 @@
   {"id": "soundcloud-ehfm", "name": "EHFM", "profileURL": "https://soundcloud.com/ehfm", "countryCode": "GB", "city": "Edinburgh", "soundcloudUserId": 1162961068},
   {"id": "soundcloud-pilotradio", "name": "Pilot Radio", "profileURL": "https://soundcloud.com/pilotradio", "countryCode": "DE", "city": "Aachen", "soundcloudUserId": 1549924167},
   {"id": "soundcloud-mouthfullradio", "name": "Mouthfull Radio", "profileURL": "https://soundcloud.com/mouthfullradio", "countryCode": "NZ", "city": "Aotearoa", "soundcloudUserId": 290499594},
-  {"id": "soundcloud-isleofwax", "name": "Isle of Wax", "profileURL": "https://soundcloud.com/isleofwax", "countryCode": "DE", "city": "Hamburg", "soundcloudUserId": 337416654},
   {"id": "soundcloud-retreatradio", "name": "Retreat Radio", "profileURL": "https://soundcloud.com/retreatradio", "countryCode": "SE", "city": "Malmö", "soundcloudUserId": 436185159},
   {"id": "soundcloud-soulection", "name": "Soulection", "profileURL": "https://soundcloud.com/soulection", "countryCode": "US", "city": "Los Angeles", "soundcloudUserId": 483960},
   {"id": "soundcloud-nosignalradio", "name": "No Signal", "profileURL": "https://soundcloud.com/nosignalradio", "countryCode": "GB", "city": "London", "soundcloudUserId": 1085133664},
