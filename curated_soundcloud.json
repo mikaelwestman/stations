@@ -81,15 +81,6 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001356973455-nuA2av-original.jpg"
   },
   {
-    "id": "soundcloud-radioalhara",
-    "name": "Radio Alhara",
-    "profileURL": "https://soundcloud.com/radioalhara",
-    "countryCode": "PS",
-    "city": "Bethlehem",
-    "soundcloudUserId": 955825612,
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000955825612-QhMAtu-original.jpg"
-  },
-  {
     "id": "soundcloud-sauna-radio",
     "name": "Sauna Radio",
     "profileURL": "https://soundcloud.com/sauna-radio",
@@ -378,7 +369,7 @@
   },
   {
     "id": "soundcloud-vislamag",
-    "name": "Visla Mag",
+    "name": "Visla FM",
     "profileURL": "https://soundcloud.com/vislamag",
     "countryCode": "KR",
     "city": "Seoul",
