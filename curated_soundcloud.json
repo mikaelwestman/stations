@@ -467,15 +467,14 @@
     "profileURL": "https://soundcloud.com/seydisfjordur",
     "city": "Seyðisfjörður",
     "soundcloudUserId": 332067787,
-    "coverImageURL": "https://i1.sndcdn.com/avatars-d2BXefMN67tgaMfy-sjHvnA-large.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000332067787-nT92M2-original.jpg"
   },
   {
     "id": "soundcloud-publishing-station",
     "name": "PUBLISHING STATION",
     "profileURL": "https://soundcloud.com/publishing-station",
     "city": "Barcelona, Amsterdam, Venice",
-    "soundcloudUserId": 837695116,
-    "coverImageURL": "https://i1.sndcdn.com/avatars-elHgBRxyylR66zuP-xkaKzw-large.jpg"
+    "soundcloudUserId": 837695116
   },
   {
     "id": "soundcloud-radio-relativa",
@@ -483,7 +482,7 @@
     "profileURL": "https://soundcloud.com/radio-relativa",
     "city": "Madrid",
     "soundcloudUserId": 83548110,
-    "coverImageURL": "https://i1.sndcdn.com/avatars-kzDZrCvZjcmADKjl-klTKhQ-large.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000083548110-PpMJ6L-original.jpg"
   },
   {
     "id": "soundcloud-for_home_use_only",
@@ -491,6 +490,6 @@
     "profileURL": "https://soundcloud.com/for_home_use_only",
     "city": "Naarm",
     "soundcloudUserId": 291765496,
-    "coverImageURL": "https://i1.sndcdn.com/avatars-000445823934-pio9b8-large.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000291765496-I9HaMO-original.jpg"
   }
 ]
