@@ -527,13 +527,5 @@
     "city": "Berlin",
     "soundcloudUserId": 520997874,
     "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg"
-  },
-  {
-    "id": "soundcloud-reverberationappreciation",
-    "name": "LEVITATION",
-    "profileURL": "https://soundcloud.com/reverberationappreciation",
-    "countryCode": "US",
-    "city": "Austin",
-    "soundcloudUserId": 12354701
   }
 ]
