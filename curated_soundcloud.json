@@ -527,5 +527,14 @@
     "city": "Berlin",
     "soundcloudUserId": 520997874,
     "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg"
+  },
+  {
+    "id": "soundcloud-seydisfjordur",
+    "name": "Seyðisfjörður Community Radio",
+    "profileURL": "https://soundcloud.com/seydisfjordur",
+    "countryCode": "IS",
+    "city": "Seyðisfjörður",
+    "soundcloudUserId": 332067787,
+    "coverImageURL": "https://i1.sndcdn.com/avatars-d2BXefMN67tgaMfy-sjHvnA-large.jpg"
   }
 ]
