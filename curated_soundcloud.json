@@ -100,7 +100,7 @@
   },
   {
     "id": "soundcloud-mot-radio",
-    "name": "MOT Radio",
+    "name": "M.O.T Radio",
     "profileURL": "https://soundcloud.com/mot-radio",
     "countryCode": "GB",
     "city": "London",
@@ -518,5 +518,22 @@
     "city": "Stockholm",
     "soundcloudUserId": 126772350,
     "coverImageURL": "https://i1.sndcdn.com/visuals-000126772350-m7Mz9E-original.jpg"
+  },
+  {
+    "id": "soundcloud-refugeworldwide",
+    "name": "Refuge Worldwide",
+    "profileURL": "https://soundcloud.com/refugeworldwide",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "soundcloudUserId": 520997874,
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg"
+  },
+  {
+    "id": "soundcloud-reverberationappreciation",
+    "name": "LEVITATION",
+    "profileURL": "https://soundcloud.com/reverberationappreciation",
+    "countryCode": "US",
+    "city": "Austin",
+    "soundcloudUserId": 12354701
   }
 ]
