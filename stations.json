@@ -224,15 +224,6 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001053153694-YHxGcY-original.jpg"
   },
   {
-    "id": "strandedfm",
-    "name": "Stranded FM",
-    "streamURL": "https://stream.zeno.fm/ka4cvltzp5pvv",
-    "countryCode": "NL",
-    "city": "Utrecht",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000584596659-RfbjCn-original.jpg"
-  },
-  {
     "id": "frittofm",
     "name": "Fritto FM",
     "streamURL": "https://frittofm2020.out.airtime.pro/frittofm2020_b",
