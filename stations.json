@@ -1,14 +1,5 @@
 [
   {
-    "id": "thelotradio",
-    "name": "The Lot Radio",
-    "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
-    "countryCode": "US",
-    "city": "New York City",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000090833894-1uoxI3-original.jpg"
-  },
-  {
     "id": "kioskradio",
     "name": "Kiosk Radio",
     "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_a",
