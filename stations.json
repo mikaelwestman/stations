@@ -6,7 +6,10 @@
     "countryCode": "BE",
     "city": "Brussels",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000315988522-hWBQlC-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000315988522-hWBQlC-original.jpg",
+    "websiteURL": "https://www.kioskradio.com",
+    "soundcloudURL": "https://soundcloud.com/kioskradio",
+    "instagramURL": "https://www.instagram.com/kiosk.radio"
   },
   {
     "id": "kexp",
@@ -14,7 +17,10 @@
     "streamURL": "https://kexp.streamguys1.com/kexp160.aac",
     "countryCode": "US",
     "city": "Seattle",
-    "genre": "Eclectic"
+    "genre": "Eclectic",
+    "websiteURL": "https://www.kexp.org",
+    "soundcloudURL": "https://soundcloud.com/kexp",
+    "instagramURL": "https://www.instagram.com/kexp"
   },
   {
     "id": "wkcr",
@@ -23,7 +29,10 @@
     "countryCode": "US",
     "city": "New York",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000456251277-7S62bb-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000456251277-7S62bb-original.jpg",
+    "websiteURL": "https://www.cc-seas.columbia.edu/wkcr",
+    "soundcloudURL": "https://soundcloud.com/wkcr",
+    "instagramURL": "https://www.instagram.com/wkcr"
   },
   {
     "id": "worldwide-fm",
@@ -32,7 +41,10 @@
     "countryCode": "GB",
     "city": "London",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000082239102-aGqwEy-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000082239102-aGqwEy-original.jpg",
+    "websiteURL": "https://www.worldwidefm.net",
+    "soundcloudURL": "https://soundcloud.com/worldwide-fm",
+    "instagramURL": "https://www.instagram.com/worldwide.fm"
   },
   {
     "id": "refugeworldwide",
@@ -41,7 +53,10 @@
     "countryCode": "DE",
     "city": "Berlin",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg",
+    "websiteURL": "https://refugeworldwide.com",
+    "soundcloudURL": "https://soundcloud.com/refugeworldwide",
+    "instagramURL": "https://www.instagram.com/refugeworldwide"
   },
   {
     "id": "noodsradio",
@@ -50,7 +65,10 @@
     "countryCode": "GB",
     "city": "Bristol",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000204865149-sx2OSf-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000204865149-sx2OSf-original.jpg",
+    "websiteURL": "https://noodsradio.com",
+    "soundcloudURL": "https://soundcloud.com/noodsradio",
+    "instagramURL": "https://www.instagram.com/noodsradio"
   },
   {
     "id": "lyl_radio",
@@ -59,7 +77,10 @@
     "countryCode": "FR",
     "city": "Lyon",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000382687151-Ib3qqz-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000382687151-Ib3qqz-original.jpg",
+    "websiteURL": "https://lyl.live",
+    "soundcloudURL": "https://soundcloud.com/lyl_radio",
+    "instagramURL": "https://www.instagram.com/lyl_radio"
   },
   {
     "id": "radioraheem_milano",
@@ -68,7 +89,10 @@
     "countryCode": "IT",
     "city": "Milan",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000355578440-kvGKae-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000355578440-kvGKae-original.jpg",
+    "websiteURL": "https://www.radioraheem.it",
+    "soundcloudURL": "https://soundcloud.com/radioraheem_milano",
+    "instagramURL": "https://www.instagram.com/radioraheem.milano"
   },
   {
     "id": "mutantradio",
@@ -77,7 +101,10 @@
     "countryCode": "GE",
     "city": "Tbilisi",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000726646525-doi5F9-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000726646525-doi5F9-original.jpg",
+    "websiteURL": "https://www.mutantradio.net",
+    "soundcloudURL": "https://soundcloud.com/mutantradio",
+    "instagramURL": "https://www.instagram.com/mutantradiotbilisi"
   },
   {
     "id": "ehfm",
@@ -86,7 +113,10 @@
     "countryCode": "GB",
     "city": "Edinburgh",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001162961068-wGh091-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001162961068-wGh091-original.jpg",
+    "websiteURL": "https://www.ehfm.live",
+    "soundcloudURL": "https://soundcloud.com/ehfm",
+    "instagramURL": "https://www.instagram.com/ehfm_live"
   },
   {
     "id": "bangkokcommunityradio",
@@ -95,7 +125,10 @@
     "countryCode": "TH",
     "city": "Bangkok",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001001014792-SLgzgw-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001001014792-SLgzgw-original.jpg",
+    "websiteURL": "https://www.bangkokcommunityradio.com",
+    "soundcloudURL": "https://soundcloud.com/bangkokcommunityradio",
+    "instagramURL": "https://www.instagram.com/bangkokcommunityradio"
   },
   {
     "id": "radio80000",
@@ -104,7 +137,10 @@
     "countryCode": "DE",
     "city": "Munich",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000141829514-NQDUZ4-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000141829514-NQDUZ4-original.jpg",
+    "websiteURL": "https://www.radio80k.de",
+    "soundcloudURL": "https://soundcloud.com/radio80000",
+    "instagramURL": "https://www.instagram.com/radio80000"
   },
   {
     "id": "netil-radio",
@@ -113,7 +149,10 @@
     "countryCode": "GB",
     "city": "London",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001358415771-gLb51o-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001358415771-gLb51o-original.jpg",
+    "websiteURL": "https://netilradio.com",
+    "soundcloudURL": "https://soundcloud.com/netil-radio",
+    "instagramURL": "https://www.instagram.com/netilradio"
   },
   {
     "id": "subtleradio",
@@ -122,7 +161,10 @@
     "countryCode": "GB",
     "city": "London",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000184376037-CXrap9-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000184376037-CXrap9-original.jpg",
+    "websiteURL": "https://www.subtleradio.com",
+    "soundcloudURL": "https://soundcloud.com/subtleradio",
+    "instagramURL": "https://www.instagram.com/subtleradio"
   },
   {
     "id": "voicesradio_ldn",
@@ -131,7 +173,10 @@
     "countryCode": "GB",
     "city": "London",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000799229608-COOE8B-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000799229608-COOE8B-original.jpg",
+    "websiteURL": "https://www.voicesradio.co.uk",
+    "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
+    "instagramURL": "https://www.instagram.com/voices_radio"
   },
   {
     "id": "kurs_radio",
@@ -140,7 +185,10 @@
     "countryCode": "RU",
     "city": "Moscow",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001381285950-ZFvW0y-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001381285950-ZFvW0y-original.jpg",
+    "websiteURL": "https://kursradio.live",
+    "soundcloudURL": "https://soundcloud.com/kurs_radio",
+    "instagramURL": "https://www.instagram.com/kurs.radio"
   },
   {
     "id": "sauna-radio",
@@ -149,7 +197,10 @@
     "countryCode": "SE",
     "city": "Stockholm",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001575148563-6du1zQ-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001575148563-6du1zQ-original.jpg",
+    "websiteURL": "https://www.saunaradio.com",
+    "soundcloudURL": "https://soundcloud.com/sauna-radio",
+    "instagramURL": "https://www.instagram.com/saunaradio.sthlm"
   },
   {
     "id": "rough-radio",
@@ -158,7 +209,10 @@
     "countryCode": "IT",
     "city": "Rome",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001171801108-X7mMMQ-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001171801108-X7mMMQ-original.jpg",
+    "websiteURL": "https://roughradio.live",
+    "soundcloudURL": "https://soundcloud.com/rough-radio",
+    "instagramURL": "https://www.instagram.com/rough.radio"
   },
   {
     "id": "pinataradio",
@@ -167,7 +221,10 @@
     "countryCode": "FR",
     "city": "Montpellier",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000214958980-NJC0FT-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000214958980-NJC0FT-original.jpg",
+    "websiteURL": "https://www.pinataradio.com",
+    "soundcloudURL": "https://soundcloud.com/pinataradio",
+    "instagramURL": "https://www.instagram.com/pinata_radio"
   },
   {
     "id": "ida_radio",
@@ -176,7 +233,10 @@
     "countryCode": "EE",
     "city": "Tallinn",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000956298394-1wX4H8-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000956298394-1wX4H8-original.jpg",
+    "websiteURL": "https://idaidaida.net",
+    "soundcloudURL": "https://soundcloud.com/ida_radio",
+    "instagramURL": "https://www.instagram.com/ida.radio"
   },
   {
     "id": "stegi-radio-athens",
@@ -185,7 +245,10 @@
     "countryCode": "GR",
     "city": "Athens",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000912923911-MPOsgg-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000912923911-MPOsgg-original.jpg",
+    "websiteURL": "https://stegi.radio",
+    "soundcloudURL": "https://soundcloud.com/stegi-radio-athens",
+    "instagramURL": "https://www.instagram.com/stegiradio"
   },
   {
     "id": "comala-radio",
@@ -194,7 +257,10 @@
     "countryCode": "FR",
     "city": "Lille",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001196431909-yzJBvz-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001196431909-yzJBvz-original.jpg",
+    "websiteURL": "https://www.comalaradio.com",
+    "soundcloudURL": "https://soundcloud.com/comala-radio",
+    "instagramURL": "https://www.instagram.com/comalaradio"
   },
   {
     "id": "hydefm",
@@ -203,7 +269,10 @@
     "countryCode": "US",
     "city": "San Francisco",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000766191889-ON7xva-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000766191889-ON7xva-original.jpg",
+    "websiteURL": "https://hydefm.com",
+    "soundcloudURL": "https://soundcloud.com/hydefm",
+    "instagramURL": "https://www.instagram.com/hydefmradio"
   },
   {
     "id": "particlefm",
@@ -212,7 +281,10 @@
     "countryCode": "US",
     "city": "San Diego",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001053153694-YHxGcY-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001053153694-YHxGcY-original.jpg",
+    "websiteURL": "https://www.particle.fm",
+    "soundcloudURL": "https://soundcloud.com/particlefm",
+    "instagramURL": "https://www.instagram.com/particlefm"
   },
   {
     "id": "frittofm",
@@ -221,7 +293,10 @@
     "countryCode": "IT",
     "city": "Milan",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000934437097-CZNvzd-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000934437097-CZNvzd-original.jpg",
+    "websiteURL": "https://fritto.fm",
+    "soundcloudURL": "https://soundcloud.com/frittofm",
+    "instagramURL": "https://www.instagram.com/frittofm"
   },
   {
     "id": "loosefm",
@@ -230,7 +305,10 @@
     "countryCode": "GB",
     "city": "London",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001057465822-fR497y-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001057465822-fR497y-original.jpg",
+    "websiteURL": "https://www.loose.fm",
+    "soundcloudURL": "https://soundcloud.com/loosefm",
+    "instagramURL": "https://www.instagram.com/loose.fm"
   },
   {
     "id": "sistermidnightfm",
@@ -239,7 +317,10 @@
     "countryCode": "GB",
     "city": "London",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001267222510-l4yTLu-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001267222510-l4yTLu-original.jpg",
+    "websiteURL": "https://radio.sistermidnight.org",
+    "soundcloudURL": "https://soundcloud.com/sistermidnightfm",
+    "instagramURL": "https://www.instagram.com/sistermidnightfm"
   },
   {
     "id": "mouthfullradio",
@@ -248,7 +329,10 @@
     "countryCode": "NZ",
     "city": "Aotearoa",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000290499594-JD1tVX-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000290499594-JD1tVX-original.jpg",
+    "websiteURL": "https://mouthfull.live",
+    "soundcloudURL": "https://soundcloud.com/mouthfullradio",
+    "instagramURL": "https://www.instagram.com/__mouthfull__"
   },
   {
     "id": "retreatradio",
@@ -257,7 +341,10 @@
     "countryCode": "SE",
     "city": "Malmö",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000436185159-JbPzMz-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000436185159-JbPzMz-original.jpg",
+    "websiteURL": "https://www.retreatradio.net",
+    "soundcloudURL": "https://soundcloud.com/retreatradio",
+    "instagramURL": "https://www.instagram.com/retreatradio"
   },
   {
     "id": "seydisfjordur",
@@ -266,7 +353,10 @@
     "countryCode": "IS",
     "city": "Seyðisfjörður",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000332067787-nT92M2-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000332067787-nT92M2-original.jpg",
+    "websiteURL": "https://seydisfjordurcommunityradio.net",
+    "soundcloudURL": "https://soundcloud.com/seydisfjordur",
+    "instagramURL": "https://www.instagram.com/seydisfjordur.community.radio"
   },
   {
     "id": "radio-relativa",
@@ -275,6 +365,9 @@
     "countryCode": "ES",
     "city": "Madrid",
     "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000083548110-PpMJ6L-original.jpg"
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000083548110-PpMJ6L-original.jpg",
+    "websiteURL": "https://radiorelativa.eu",
+    "soundcloudURL": "https://soundcloud.com/radio-relativa",
+    "instagramURL": "https://www.instagram.com/relativaradio"
   }
 ]
