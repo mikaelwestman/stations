@@ -1,6 +1,6 @@
 [
   {
-    "id": "nts-1",
+    "id": "user-202286394-991268468",
     "name": "NTS Radio",
     "streamURL": "https://stream-relay-geo.ntslive.net/stream",
     "countryCode": "GB",
@@ -9,7 +9,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000995897410-S6ZCOk-original.jpg"
   },
   {
-    "id": "the-lot-radio",
+    "id": "thelotradio",
     "name": "The Lot Radio",
     "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
     "countryCode": "US",
@@ -18,7 +18,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000090833894-1uoxI3-original.jpg"
   },
   {
-    "id": "kiosk-radio",
+    "id": "kioskradio",
     "name": "Kiosk Radio",
     "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_a",
     "countryCode": "BE",
@@ -53,7 +53,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000082239102-aGqwEy-original.jpg"
   },
   {
-    "id": "refuge-worldwide",
+    "id": "refugeworldwide",
     "name": "Refuge Worldwide",
     "streamURL": "https://streaming.radio.co/s3699c5e49/listen",
     "countryCode": "DE",
@@ -62,7 +62,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg"
   },
   {
-    "id": "noods-radio",
+    "id": "noodsradio",
     "name": "Noods Radio",
     "streamURL": "https://noods-radio.radiocult.fm/stream",
     "countryCode": "GB",
@@ -71,7 +71,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000204865149-sx2OSf-original.jpg"
   },
   {
-    "id": "lyl-radio",
+    "id": "lyl_radio",
     "name": "LYL Radio",
     "streamURL": "https://icecast.lyl.live/live",
     "countryCode": "FR",
@@ -80,7 +80,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000382687151-Ib3qqz-original.jpg"
   },
   {
-    "id": "radio-raheem",
+    "id": "radioraheem_milano",
     "name": "Radio Raheem",
     "streamURL": "https://radioraheem.out.airtime.pro/radioraheem_a",
     "countryCode": "IT",
@@ -89,7 +89,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000355578440-kvGKae-original.jpg"
   },
   {
-    "id": "mutant-radio",
+    "id": "mutantradio",
     "name": "Mutant Radio",
     "streamURL": "https://listen.radioking.com/radio/282820/stream/328621",
     "countryCode": "GE",
@@ -107,7 +107,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001162961068-wGh091-original.jpg"
   },
   {
-    "id": "bangkok-community-radio",
+    "id": "bangkokcommunityradio",
     "name": "Bangkok Community Radio",
     "streamURL": "https://bcr.radiocult.fm/stream",
     "countryCode": "TH",
@@ -116,7 +116,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001001014792-SLgzgw-original.jpg"
   },
   {
-    "id": "radio-80000",
+    "id": "radio80000",
     "name": "Radio 80000",
     "streamURL": "https://radio80k.out.airtime.pro/radio80k_a",
     "countryCode": "DE",
@@ -134,7 +134,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001358415771-gLb51o-original.jpg"
   },
   {
-    "id": "subtle-radio",
+    "id": "subtleradio",
     "name": "Subtle Radio",
     "streamURL": "https://subtle.out.airtime.pro/subtle_a",
     "countryCode": "GB",
@@ -143,7 +143,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000184376037-CXrap9-original.jpg"
   },
   {
-    "id": "no-signal",
+    "id": "nosignalradio",
     "name": "No Signal",
     "streamURL": "https://no-signal.radiocult.fm/stream",
     "countryCode": "GB",
@@ -152,7 +152,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001085133664-XyakE2-original.jpg"
   },
   {
-    "id": "voices-radio",
+    "id": "voicesradio_ldn",
     "name": "Voices Radio",
     "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
     "countryCode": "GB",
@@ -161,7 +161,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000799229608-COOE8B-original.jpg"
   },
   {
-    "id": "kurs-radio",
+    "id": "kurs_radio",
     "name": "Kurs Radio",
     "streamURL": "https://listen9.myradio24.com/kursradio",
     "countryCode": "RU",
@@ -188,7 +188,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001171801108-X7mMMQ-original.jpg"
   },
   {
-    "id": "pinata-radio",
+    "id": "pinataradio",
     "name": "Pinata Radio",
     "streamURL": "https://listen.radioking.com/radio/96031/stream/134656",
     "countryCode": "FR",
@@ -197,7 +197,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000214958980-NJC0FT-original.jpg"
   },
   {
-    "id": "ida-radio",
+    "id": "ida_radio",
     "name": "IDA Radio",
     "streamURL": "https://streams.radio.co/s053b51423/listen",
     "countryCode": "EE",
@@ -206,7 +206,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000956298394-1wX4H8-original.jpg"
   },
   {
-    "id": "stegi-radio",
+    "id": "stegi-radio-athens",
     "name": "Stegi Radio",
     "streamURL": "https://movementathens.out.airtime.pro/movementathens_a",
     "countryCode": "GR",
@@ -224,7 +224,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001196431909-yzJBvz-original.jpg"
   },
   {
-    "id": "hyde-fm",
+    "id": "hydefm",
     "name": "Hyde FM",
     "streamURL": "https://hydefmradio.out.airtime.pro/hydefmradio_a",
     "countryCode": "US",
@@ -233,7 +233,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000766191889-ON7xva-original.jpg"
   },
   {
-    "id": "particle-fm",
+    "id": "particlefm",
     "name": "Particle FM",
     "streamURL": "https://azuracast.particle.fm/radio/8000/radio.mp3",
     "countryCode": "US",
@@ -242,7 +242,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001053153694-YHxGcY-original.jpg"
   },
   {
-    "id": "stranded-fm",
+    "id": "strandedfm",
     "name": "Stranded FM",
     "streamURL": "https://stream.zeno.fm/ka4cvltzp5pvv",
     "countryCode": "NL",
@@ -251,7 +251,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000584596659-RfbjCn-original.jpg"
   },
   {
-    "id": "fritto-fm",
+    "id": "frittofm",
     "name": "Fritto FM",
     "streamURL": "https://frittofm2020.out.airtime.pro/frittofm2020_b",
     "countryCode": "IT",
@@ -260,7 +260,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000934437097-CZNvzd-original.jpg"
   },
   {
-    "id": "loose-fm",
+    "id": "loosefm",
     "name": "Loose FM",
     "streamURL": "https://loosefm.radiocult.fm/stream",
     "countryCode": "GB",
@@ -269,7 +269,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001057465822-fR497y-original.jpg"
   },
   {
-    "id": "sister-midnight-fm",
+    "id": "sistermidnightfm",
     "name": "Sister Midnight FM",
     "streamURL": "https://stream.radio.co/s35e4926a1/listen",
     "countryCode": "GB",
@@ -278,7 +278,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001267222510-l4yTLu-original.jpg"
   },
   {
-    "id": "pilot-radio",
+    "id": "pilotradio",
     "name": "Pilot Radio",
     "streamURL": "https://stream.p37.io/stream",
     "countryCode": "DE",
@@ -287,7 +287,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-001549924167-yrM2zT-original.jpg"
   },
   {
-    "id": "mouthfull-radio",
+    "id": "mouthfullradio",
     "name": "Mouthfull Radio",
     "streamURL": "https://mouthfull-radio.radiocult.fm/stream",
     "countryCode": "NZ",
@@ -296,7 +296,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000290499594-JD1tVX-original.jpg"
   },
   {
-    "id": "retreat-radio",
+    "id": "retreatradio",
     "name": "Retreat Radio",
     "streamURL": "https://retreatradio.out.airtime.pro/retreatradio_b",
     "countryCode": "SE",
@@ -305,7 +305,7 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000436185159-JbPzMz-original.jpg"
   },
   {
-    "id": "seydisfjordur-community-radio",
+    "id": "seydisfjordur",
     "name": "Seyðisfjörður Community Radio",
     "streamURL": "https://seyisfjorur-community-radio.radiocult.fm/stream",
     "countryCode": "IS",
