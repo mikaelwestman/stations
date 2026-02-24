@@ -1,0 +1,325 @@
+[
+  {
+    "id": "nts-1",
+    "name": "NTS Radio",
+    "streamURL": "https://stream-relay-geo.ntslive.net/stream",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000995897410-S6ZCOk-original.jpg"
+  },
+  {
+    "id": "the-lot-radio",
+    "name": "The Lot Radio",
+    "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
+    "countryCode": "US",
+    "city": "New York City",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000090833894-1uoxI3-original.jpg"
+  },
+  {
+    "id": "kiosk-radio",
+    "name": "Kiosk Radio",
+    "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_a",
+    "countryCode": "BE",
+    "city": "Brussels",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000315988522-hWBQlC-original.jpg"
+  },
+  {
+    "id": "kexp",
+    "name": "KEXP 90.3 FM",
+    "streamURL": "https://kexp.streamguys1.com/kexp160.aac",
+    "countryCode": "US",
+    "city": "Seattle",
+    "genre": "Eclectic"
+  },
+  {
+    "id": "wkcr",
+    "name": "WKCR",
+    "streamURL": "http://wkcr.streamguys1.com:80/live",
+    "countryCode": "US",
+    "city": "New York",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000456251277-7S62bb-original.jpg"
+  },
+  {
+    "id": "worldwide-fm",
+    "name": "Worldwide FM",
+    "streamURL": "http://worldwidefm.out.airtime.pro:8000/worldwidefm_a",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000082239102-aGqwEy-original.jpg"
+  },
+  {
+    "id": "refuge-worldwide",
+    "name": "Refuge Worldwide",
+    "streamURL": "https://streaming.radio.co/s3699c5e49/listen",
+    "countryCode": "DE",
+    "city": "Berlin",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg"
+  },
+  {
+    "id": "noods-radio",
+    "name": "Noods Radio",
+    "streamURL": "https://noods-radio.radiocult.fm/stream",
+    "countryCode": "GB",
+    "city": "Bristol",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000204865149-sx2OSf-original.jpg"
+  },
+  {
+    "id": "lyl-radio",
+    "name": "LYL Radio",
+    "streamURL": "https://icecast.lyl.live/live",
+    "countryCode": "FR",
+    "city": "Lyon",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000382687151-Ib3qqz-original.jpg"
+  },
+  {
+    "id": "radio-raheem",
+    "name": "Radio Raheem",
+    "streamURL": "https://radioraheem.out.airtime.pro/radioraheem_a",
+    "countryCode": "IT",
+    "city": "Milan",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000355578440-kvGKae-original.jpg"
+  },
+  {
+    "id": "mutant-radio",
+    "name": "Mutant Radio",
+    "streamURL": "https://listen.radioking.com/radio/282820/stream/328621",
+    "countryCode": "GE",
+    "city": "Tbilisi",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000726646525-doi5F9-original.jpg"
+  },
+  {
+    "id": "ehfm",
+    "name": "EHFM",
+    "streamURL": "https://ehfm.out.airtime.pro/ehfm_a",
+    "countryCode": "GB",
+    "city": "Edinburgh",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001162961068-wGh091-original.jpg"
+  },
+  {
+    "id": "bangkok-community-radio",
+    "name": "Bangkok Community Radio",
+    "streamURL": "https://bcr.radiocult.fm/stream",
+    "countryCode": "TH",
+    "city": "Bangkok",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001001014792-SLgzgw-original.jpg"
+  },
+  {
+    "id": "radio-80000",
+    "name": "Radio 80000",
+    "streamURL": "https://radio80k.out.airtime.pro/radio80k_a",
+    "countryCode": "DE",
+    "city": "Munich",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000141829514-NQDUZ4-original.jpg"
+  },
+  {
+    "id": "netil-radio",
+    "name": "Netil Radio",
+    "streamURL": "https://netilradio.out.airtime.pro/netilradio_a",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001358415771-gLb51o-original.jpg"
+  },
+  {
+    "id": "subtle-radio",
+    "name": "Subtle Radio",
+    "streamURL": "https://subtle.out.airtime.pro/subtle_a",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000184376037-CXrap9-original.jpg"
+  },
+  {
+    "id": "no-signal",
+    "name": "No Signal",
+    "streamURL": "https://no-signal.radiocult.fm/stream",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001085133664-XyakE2-original.jpg"
+  },
+  {
+    "id": "voices-radio",
+    "name": "Voices Radio",
+    "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000799229608-COOE8B-original.jpg"
+  },
+  {
+    "id": "kurs-radio",
+    "name": "Kurs Radio",
+    "streamURL": "https://listen9.myradio24.com/kursradio",
+    "countryCode": "RU",
+    "city": "Moscow",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001381285950-ZFvW0y-original.jpg"
+  },
+  {
+    "id": "sauna-radio",
+    "name": "Sauna Radio",
+    "streamURL": "https://stream.saunaradio.com/stream",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001575148563-6du1zQ-original.jpg"
+  },
+  {
+    "id": "rough-radio",
+    "name": "Rough Radio",
+    "streamURL": "https://roughradio1.out.airtime.pro/roughradio1_a",
+    "countryCode": "IT",
+    "city": "Rome",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001171801108-X7mMMQ-original.jpg"
+  },
+  {
+    "id": "pinata-radio",
+    "name": "Pinata Radio",
+    "streamURL": "https://listen.radioking.com/radio/96031/stream/134656",
+    "countryCode": "FR",
+    "city": "Montpellier",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000214958980-NJC0FT-original.jpg"
+  },
+  {
+    "id": "ida-radio",
+    "name": "IDA Radio",
+    "streamURL": "https://streams.radio.co/s053b51423/listen",
+    "countryCode": "EE",
+    "city": "Tallinn",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000956298394-1wX4H8-original.jpg"
+  },
+  {
+    "id": "stegi-radio",
+    "name": "Stegi Radio",
+    "streamURL": "https://movementathens.out.airtime.pro/movementathens_a",
+    "countryCode": "GR",
+    "city": "Athens",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000912923911-MPOsgg-original.jpg"
+  },
+  {
+    "id": "comala-radio",
+    "name": "Comala Radio",
+    "streamURL": "https://play.radioking.io/supag",
+    "countryCode": "FR",
+    "city": "Lille",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001196431909-yzJBvz-original.jpg"
+  },
+  {
+    "id": "hyde-fm",
+    "name": "Hyde FM",
+    "streamURL": "https://hydefmradio.out.airtime.pro/hydefmradio_a",
+    "countryCode": "US",
+    "city": "San Francisco",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000766191889-ON7xva-original.jpg"
+  },
+  {
+    "id": "particle-fm",
+    "name": "Particle FM",
+    "streamURL": "https://azuracast.particle.fm/radio/8000/radio.mp3",
+    "countryCode": "US",
+    "city": "San Diego",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001053153694-YHxGcY-original.jpg"
+  },
+  {
+    "id": "stranded-fm",
+    "name": "Stranded FM",
+    "streamURL": "https://stream.zeno.fm/ka4cvltzp5pvv",
+    "countryCode": "NL",
+    "city": "Utrecht",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000584596659-RfbjCn-original.jpg"
+  },
+  {
+    "id": "fritto-fm",
+    "name": "Fritto FM",
+    "streamURL": "https://frittofm2020.out.airtime.pro/frittofm2020_b",
+    "countryCode": "IT",
+    "city": "Milan",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000934437097-CZNvzd-original.jpg"
+  },
+  {
+    "id": "loose-fm",
+    "name": "Loose FM",
+    "streamURL": "https://loosefm.radiocult.fm/stream",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001057465822-fR497y-original.jpg"
+  },
+  {
+    "id": "sister-midnight-fm",
+    "name": "Sister Midnight FM",
+    "streamURL": "https://stream.radio.co/s35e4926a1/listen",
+    "countryCode": "GB",
+    "city": "London",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001267222510-l4yTLu-original.jpg"
+  },
+  {
+    "id": "pilot-radio",
+    "name": "Pilot Radio",
+    "streamURL": "https://stream.p37.io/stream",
+    "countryCode": "DE",
+    "city": "Aachen",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-001549924167-yrM2zT-original.jpg"
+  },
+  {
+    "id": "mouthfull-radio",
+    "name": "Mouthfull Radio",
+    "streamURL": "https://mouthfull-radio.radiocult.fm/stream",
+    "countryCode": "NZ",
+    "city": "Aotearoa",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000290499594-JD1tVX-original.jpg"
+  },
+  {
+    "id": "retreat-radio",
+    "name": "Retreat Radio",
+    "streamURL": "https://retreatradio.out.airtime.pro/retreatradio_b",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000436185159-JbPzMz-original.jpg"
+  },
+  {
+    "id": "seydisfjordur-community-radio",
+    "name": "Seyðisfjörður Community Radio",
+    "streamURL": "https://seyisfjorur-community-radio.radiocult.fm/stream",
+    "countryCode": "IS",
+    "city": "Seyðisfjörður",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000332067787-nT92M2-original.jpg"
+  },
+  {
+    "id": "radio-relativa",
+    "name": "Radio Relativa",
+    "streamURL": "https://streamer.radio.co/sd6131729c/listen",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "genre": "Eclectic",
+    "coverImageURL": "https://i1.sndcdn.com/visuals-000083548110-PpMJ6L-original.jpg"
+  }
+]
