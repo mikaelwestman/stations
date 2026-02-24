@@ -1,14 +1,5 @@
 [
   {
-    "id": "user-202286394-991268468",
-    "name": "NTS Radio",
-    "streamURL": "https://stream-relay-geo.ntslive.net/stream",
-    "countryCode": "GB",
-    "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000995897410-S6ZCOk-original.jpg"
-  },
-  {
     "id": "thelotradio",
     "name": "The Lot Radio",
     "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
@@ -143,15 +134,6 @@
     "coverImageURL": "https://i1.sndcdn.com/visuals-000184376037-CXrap9-original.jpg"
   },
   {
-    "id": "nosignalradio",
-    "name": "No Signal",
-    "streamURL": "https://no-signal.radiocult.fm/stream",
-    "countryCode": "GB",
-    "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001085133664-XyakE2-original.jpg"
-  },
-  {
     "id": "voicesradio_ldn",
     "name": "Voices Radio",
     "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
@@ -276,15 +258,6 @@
     "city": "London",
     "genre": "Eclectic",
     "coverImageURL": "https://i1.sndcdn.com/visuals-001267222510-l4yTLu-original.jpg"
-  },
-  {
-    "id": "pilotradio",
-    "name": "Pilot Radio",
-    "streamURL": "https://stream.p37.io/stream",
-    "countryCode": "DE",
-    "city": "Aachen",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001549924167-yrM2zT-original.jpg"
   },
   {
     "id": "mouthfullradio",
