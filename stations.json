@@ -37,7 +37,7 @@
   {
     "id": "worldwide-fm",
     "name": "Worldwide FM",
-    "streamURL": "http://worldwidefm.out.airtime.pro:8000/worldwidefm_a",
+    "streamURL": "https://worldwide-fm.radiocult.fm/stream",
     "countryCode": "GB",
     "city": "London",
     "genre": "Eclectic",
