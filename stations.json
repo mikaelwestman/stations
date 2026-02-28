@@ -5,8 +5,7 @@
     "streamURL": "https://stream-relay-geo.ntslive.net/stream",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000995897410-S6ZCOk-original.jpg"
+    "patternIndex": 1
   },
   {
     "id": "the-lot-radio",
@@ -14,8 +13,7 @@
     "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
     "countryCode": "US",
     "city": "New York City",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000090833894-1uoxI3-original.jpg"
+    "patternIndex": 2
   },
   {
     "id": "kiosk-radio",
@@ -23,8 +21,7 @@
     "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_a",
     "countryCode": "BE",
     "city": "Brussels",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000315988522-hWBQlC-original.jpg"
+    "patternIndex": 3
   },
   {
     "id": "kexp",
@@ -32,7 +29,7 @@
     "streamURL": "https://kexp.streamguys1.com/kexp160.aac",
     "countryCode": "US",
     "city": "Seattle",
-    "genre": "Eclectic"
+    "patternIndex": 4
   },
   {
     "id": "wkcr",
@@ -40,8 +37,7 @@
     "streamURL": "http://wkcr.streamguys1.com:80/live",
     "countryCode": "US",
     "city": "New York",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000456251277-7S62bb-original.jpg"
+    "patternIndex": 5
   },
   {
     "id": "worldwide-fm",
@@ -49,8 +45,7 @@
     "streamURL": "http://worldwidefm.out.airtime.pro:8000/worldwidefm_a",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000082239102-aGqwEy-original.jpg"
+    "patternIndex": 6
   },
   {
     "id": "refuge-worldwide",
@@ -58,8 +53,7 @@
     "streamURL": "https://streaming.radio.co/s3699c5e49/listen",
     "countryCode": "DE",
     "city": "Berlin",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000520997874-29XksR-original.jpg"
+    "patternIndex": 7
   },
   {
     "id": "noods-radio",
@@ -67,8 +61,7 @@
     "streamURL": "https://noods-radio.radiocult.fm/stream",
     "countryCode": "GB",
     "city": "Bristol",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000204865149-sx2OSf-original.jpg"
+    "patternIndex": 8
   },
   {
     "id": "lyl-radio",
@@ -76,8 +69,7 @@
     "streamURL": "https://icecast.lyl.live/live",
     "countryCode": "FR",
     "city": "Lyon",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000382687151-Ib3qqz-original.jpg"
+    "patternIndex": 9
   },
   {
     "id": "radio-raheem",
@@ -85,8 +77,7 @@
     "streamURL": "https://radioraheem.out.airtime.pro/radioraheem_a",
     "countryCode": "IT",
     "city": "Milan",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000355578440-kvGKae-original.jpg"
+    "patternIndex": 10
   },
   {
     "id": "mutant-radio",
@@ -94,8 +85,7 @@
     "streamURL": "https://listen.radioking.com/radio/282820/stream/328621",
     "countryCode": "GE",
     "city": "Tbilisi",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000726646525-doi5F9-original.jpg"
+    "patternIndex": 11
   },
   {
     "id": "ehfm",
@@ -103,8 +93,7 @@
     "streamURL": "https://ehfm.out.airtime.pro/ehfm_a",
     "countryCode": "GB",
     "city": "Edinburgh",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001162961068-wGh091-original.jpg"
+    "patternIndex": 12
   },
   {
     "id": "bangkok-community-radio",
@@ -112,8 +101,7 @@
     "streamURL": "https://bcr.radiocult.fm/stream",
     "countryCode": "TH",
     "city": "Bangkok",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001001014792-SLgzgw-original.jpg"
+    "patternIndex": 13
   },
   {
     "id": "radio-80000",
@@ -121,8 +109,7 @@
     "streamURL": "https://radio80k.out.airtime.pro/radio80k_a",
     "countryCode": "DE",
     "city": "Munich",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000141829514-NQDUZ4-original.jpg"
+    "patternIndex": 14
   },
   {
     "id": "netil-radio",
@@ -130,8 +117,7 @@
     "streamURL": "https://netilradio.out.airtime.pro/netilradio_a",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001358415771-gLb51o-original.jpg"
+    "patternIndex": 15
   },
   {
     "id": "subtle-radio",
@@ -139,8 +125,7 @@
     "streamURL": "https://subtle.out.airtime.pro/subtle_a",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000184376037-CXrap9-original.jpg"
+    "patternIndex": 16
   },
   {
     "id": "no-signal",
@@ -148,8 +133,7 @@
     "streamURL": "https://no-signal.radiocult.fm/stream",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001085133664-XyakE2-original.jpg"
+    "patternIndex": 17
   },
   {
     "id": "voices-radio",
@@ -157,8 +141,7 @@
     "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000799229608-COOE8B-original.jpg"
+    "patternIndex": 18
   },
   {
     "id": "kurs-radio",
@@ -166,8 +149,7 @@
     "streamURL": "https://listen9.myradio24.com/kursradio",
     "countryCode": "RU",
     "city": "Moscow",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001381285950-ZFvW0y-original.jpg"
+    "patternIndex": 19
   },
   {
     "id": "sauna-radio",
@@ -175,8 +157,7 @@
     "streamURL": "https://stream.saunaradio.com/stream",
     "countryCode": "SE",
     "city": "Stockholm",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001575148563-6du1zQ-original.jpg"
+    "patternIndex": 20
   },
   {
     "id": "rough-radio",
@@ -184,8 +165,7 @@
     "streamURL": "https://roughradio1.out.airtime.pro/roughradio1_a",
     "countryCode": "IT",
     "city": "Rome",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001171801108-X7mMMQ-original.jpg"
+    "patternIndex": 21
   },
   {
     "id": "pinata-radio",
@@ -193,8 +173,7 @@
     "streamURL": "https://listen.radioking.com/radio/96031/stream/134656",
     "countryCode": "FR",
     "city": "Montpellier",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000214958980-NJC0FT-original.jpg"
+    "patternIndex": 22
   },
   {
     "id": "ida-radio",
@@ -202,8 +181,7 @@
     "streamURL": "https://broadcast.idaidaida.net:8000/stream",
     "countryCode": "EE",
     "city": "Tallinn",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000956298394-1wX4H8-original.jpg"
+    "patternIndex": 23
   },
   {
     "id": "stegi-radio",
@@ -211,8 +189,7 @@
     "streamURL": "https://movementathens.out.airtime.pro/movementathens_a",
     "countryCode": "GR",
     "city": "Athens",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000912923911-MPOsgg-original.jpg"
+    "patternIndex": 24
   },
   {
     "id": "comala-radio",
@@ -220,8 +197,7 @@
     "streamURL": "https://play.radioking.io/supag",
     "countryCode": "FR",
     "city": "Lille",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001196431909-yzJBvz-original.jpg"
+    "patternIndex": 25
   },
   {
     "id": "hyde-fm",
@@ -229,8 +205,7 @@
     "streamURL": "https://hydefmradio.out.airtime.pro/hydefmradio_a",
     "countryCode": "US",
     "city": "San Francisco",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000766191889-ON7xva-original.jpg"
+    "patternIndex": 26
   },
   {
     "id": "particle-fm",
@@ -238,8 +213,7 @@
     "streamURL": "https://azuracast.particle.fm/radio/8000/radio.mp3",
     "countryCode": "US",
     "city": "San Diego",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001053153694-YHxGcY-original.jpg"
+    "patternIndex": 27
   },
   {
     "id": "stranded-fm",
@@ -247,8 +221,7 @@
     "streamURL": "https://stream.zeno.fm/ka4cvltzp5pvv",
     "countryCode": "NL",
     "city": "Utrecht",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000584596659-RfbjCn-original.jpg"
+    "patternIndex": 1
   },
   {
     "id": "fritto-fm",
@@ -256,8 +229,7 @@
     "streamURL": "https://frittofm2020.out.airtime.pro/frittofm2020_b",
     "countryCode": "IT",
     "city": "Milan",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000934437097-CZNvzd-original.jpg"
+    "patternIndex": 2
   },
   {
     "id": "loose-fm",
@@ -265,8 +237,7 @@
     "streamURL": "https://loosefm.radiocult.fm/stream",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001057465822-fR497y-original.jpg"
+    "patternIndex": 3
   },
   {
     "id": "sister-midnight-fm",
@@ -274,8 +245,7 @@
     "streamURL": "https://stream.radio.co/s35e4926a1/listen",
     "countryCode": "GB",
     "city": "London",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001267222510-l4yTLu-original.jpg"
+    "patternIndex": 4
   },
   {
     "id": "pilot-radio",
@@ -283,8 +253,7 @@
     "streamURL": "https://stream.p37.io/stream",
     "countryCode": "DE",
     "city": "Aachen",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-001549924167-yrM2zT-original.jpg"
+    "patternIndex": 5
   },
   {
     "id": "mouthfull-radio",
@@ -292,8 +261,7 @@
     "streamURL": "https://mouthfull-radio.radiocult.fm/stream",
     "countryCode": "NZ",
     "city": "Aotearoa",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000290499594-JD1tVX-original.jpg"
+    "patternIndex": 6
   },
   {
     "id": "retreat-radio",
@@ -301,8 +269,7 @@
     "streamURL": "https://retreatradio.out.airtime.pro/retreatradio_b",
     "countryCode": "SE",
     "city": "Malmö",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000436185159-JbPzMz-original.jpg"
+    "patternIndex": 7
   },
   {
     "id": "seydisfjordur-community-radio",
@@ -310,8 +277,7 @@
     "streamURL": "https://seyisfjorur-community-radio.radiocult.fm/stream",
     "countryCode": "IS",
     "city": "Seyðisfjörður",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000332067787-nT92M2-original.jpg"
+    "patternIndex": 8
   },
   {
     "id": "radio-relativa",
@@ -319,7 +285,6 @@
     "streamURL": "https://streamer.radio.co/sd6131729c/listen",
     "countryCode": "ES",
     "city": "Madrid",
-    "genre": "Eclectic",
-    "coverImageURL": "https://i1.sndcdn.com/visuals-000083548110-PpMJ6L-original.jpg"
+    "patternIndex": 9
   }
 ]
