@@ -1,19 +1,14 @@
 [
   {
-    "id": "user-202286394-991268468",
-    "name": "NTS Radio",
-    "streamURL": "https://stream-relay-geo.ntslive.net/stream",
-    "countryCode": "GB",
-    "city": "London",
-    "patternIndex": 1
-  },
-  {
     "id": "thelotradio",
     "name": "The Lot Radio",
     "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
     "countryCode": "US",
     "city": "New York City",
-    "patternIndex": 2
+    "patternIndex": 2,
+    "websiteURL": "https://www.thelotradio.com",
+    "soundcloudURL": "https://soundcloud.com/thelotradio",
+    "instagramURL": "https://instagram.com/thelotradio"
   },
   {
     "id": "kioskradio",
@@ -21,7 +16,10 @@
     "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_a",
     "countryCode": "BE",
     "city": "Brussels",
-    "patternIndex": 3
+    "patternIndex": 3,
+    "websiteURL": "https://www.kioskradio.com",
+    "soundcloudURL": "https://soundcloud.com/kioskradio",
+    "instagramURL": "https://instagram.com/kiosk.radio"
   },
   {
     "id": "kexp",
@@ -29,7 +27,10 @@
     "streamURL": "https://kexp.streamguys1.com/kexp160.aac",
     "countryCode": "US",
     "city": "Seattle",
-    "patternIndex": 4
+    "patternIndex": 4,
+    "websiteURL": "https://kexp.org",
+    "soundcloudURL": "https://soundcloud.com/kexp",
+    "instagramURL": "https://instagram.com/kexp"
   },
   {
     "id": "wkcr",
@@ -37,7 +38,10 @@
     "streamURL": "http://wkcr.streamguys1.com:80/live",
     "countryCode": "US",
     "city": "New York",
-    "patternIndex": 5
+    "patternIndex": 5,
+    "websiteURL": "https://www.cc-seas.columbia.edu/wkcr",
+    "soundcloudURL": "https://soundcloud.com/wkcr",
+    "instagramURL": "https://instagram.com/wkcr"
   },
   {
     "id": "worldwide-fm",
@@ -45,7 +49,10 @@
     "streamURL": "http://worldwidefm.out.airtime.pro:8000/worldwidefm_a",
     "countryCode": "GB",
     "city": "London",
-    "patternIndex": 6
+    "patternIndex": 6,
+    "websiteURL": "https://www.worldwidefm.net",
+    "soundcloudURL": "https://soundcloud.com/worldwide-fm",
+    "instagramURL": "https://instagram.com/worldwide.fm"
   },
   {
     "id": "refugeworldwide",
@@ -53,7 +60,10 @@
     "streamURL": "https://streaming.radio.co/s3699c5e49/listen",
     "countryCode": "DE",
     "city": "Berlin",
-    "patternIndex": 7
+    "patternIndex": 7,
+    "websiteURL": "https://refugeworldwide.com",
+    "soundcloudURL": "https://soundcloud.com/refugeworldwide",
+    "instagramURL": "https://instagram.com/refugeworldwide"
   },
   {
     "id": "noodsradio",
@@ -61,7 +71,10 @@
     "streamURL": "https://noods-radio.radiocult.fm/stream",
     "countryCode": "GB",
     "city": "Bristol",
-    "patternIndex": 8
+    "patternIndex": 8,
+    "websiteURL": "https://noodsradio.com",
+    "soundcloudURL": "https://soundcloud.com/noodsradio",
+    "instagramURL": "https://instagram.com/noodsradio"
   },
   {
     "id": "lyl_radio",
@@ -69,7 +82,10 @@
     "streamURL": "https://icecast.lyl.live/live",
     "countryCode": "FR",
     "city": "Lyon",
-    "patternIndex": 9
+    "patternIndex": 9,
+    "websiteURL": "https://lyl.live",
+    "soundcloudURL": "https://soundcloud.com/lyl_radio",
+    "instagramURL": "https://instagram.com/lyl_radio"
   },
   {
     "id": "radioraheem_milano",
@@ -77,7 +93,10 @@
     "streamURL": "https://radioraheem.out.airtime.pro/radioraheem_a",
     "countryCode": "IT",
     "city": "Milan",
-    "patternIndex": 10
+    "patternIndex": 10,
+    "websiteURL": "https://www.radioraheem.it",
+    "soundcloudURL": "https://soundcloud.com/radioraheem_milano",
+    "instagramURL": "https://instagram.com/radioraheem.milano"
   },
   {
     "id": "mutantradio",
@@ -85,7 +104,10 @@
     "streamURL": "https://listen.radioking.com/radio/282820/stream/328621",
     "countryCode": "GE",
     "city": "Tbilisi",
-    "patternIndex": 11
+    "patternIndex": 11,
+    "websiteURL": "https://www.mutantradio.net",
+    "soundcloudURL": "https://soundcloud.com/mutantradio",
+    "instagramURL": "https://instagram.com/mutantradiotbilisi"
   },
   {
     "id": "ehfm",
@@ -93,7 +115,10 @@
     "streamURL": "https://ehfm.out.airtime.pro/ehfm_a",
     "countryCode": "GB",
     "city": "Edinburgh",
-    "patternIndex": 12
+    "patternIndex": 12,
+    "websiteURL": "https://www.ehfm.live",
+    "soundcloudURL": "https://soundcloud.com/ehfm",
+    "instagramURL": "https://instagram.com/ehfm_live"
   },
   {
     "id": "bangkokcommunityradio",
@@ -101,7 +126,10 @@
     "streamURL": "https://bcr.radiocult.fm/stream",
     "countryCode": "TH",
     "city": "Bangkok",
-    "patternIndex": 13
+    "patternIndex": 13,
+    "websiteURL": "https://www.bangkokcommunityradio.com",
+    "soundcloudURL": "https://soundcloud.com/bangkokcommunityradio",
+    "instagramURL": "https://instagram.com/bangkokcommunityradio"
   },
   {
     "id": "radio80000",
@@ -109,7 +137,10 @@
     "streamURL": "https://radio80k.out.airtime.pro/radio80k_a",
     "countryCode": "DE",
     "city": "Munich",
-    "patternIndex": 14
+    "patternIndex": 14,
+    "websiteURL": "https://www.radio80k.de",
+    "soundcloudURL": "https://soundcloud.com/radio80000",
+    "instagramURL": "https://instagram.com/radio80000"
   },
   {
     "id": "netil-radio",
@@ -117,7 +148,10 @@
     "streamURL": "https://netilradio.out.airtime.pro/netilradio_a",
     "countryCode": "GB",
     "city": "London",
-    "patternIndex": 15
+    "patternIndex": 15,
+    "websiteURL": "https://netilradio.com",
+    "soundcloudURL": "https://soundcloud.com/netil-radio",
+    "instagramURL": "https://instagram.com/netilradio"
   },
   {
     "id": "subtleradio",
@@ -125,7 +159,10 @@
     "streamURL": "https://subtle.out.airtime.pro/subtle_a",
     "countryCode": "GB",
     "city": "London",
-    "patternIndex": 16
+    "patternIndex": 16,
+    "websiteURL": "https://www.subtleradio.com",
+    "soundcloudURL": "https://soundcloud.com/subtleradio",
+    "instagramURL": "https://instagram.com/subtleradio"
   },
   {
     "id": "nosignalradio",
@@ -133,7 +170,10 @@
     "streamURL": "https://no-signal.radiocult.fm/stream",
     "countryCode": "GB",
     "city": "London",
-    "patternIndex": 17
+    "patternIndex": 17,
+    "websiteURL": "https://www.theresnosignal.com",
+    "soundcloudURL": "https://soundcloud.com/nosignalradio",
+    "instagramURL": "https://instagram.com/theresnosignal"
   },
   {
     "id": "voicesradio_ldn",
@@ -141,7 +181,10 @@
     "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
     "countryCode": "GB",
     "city": "London",
-    "patternIndex": 18
+    "patternIndex": 18,
+    "websiteURL": "https://www.voicesradio.co.uk",
+    "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
+    "instagramURL": "https://instagram.com/voices_radio"
   },
   {
     "id": "kurs_radio",
@@ -149,7 +192,10 @@
     "streamURL": "https://listen9.myradio24.com/kursradio",
     "countryCode": "RU",
     "city": "Moscow",
-    "patternIndex": 19
+    "patternIndex": 19,
+    "websiteURL": "https://kursradio.live",
+    "soundcloudURL": "https://soundcloud.com/kurs_radio",
+    "instagramURL": "https://instagram.com/kurs.radio"
   },
   {
     "id": "sauna-radio",
@@ -157,7 +203,10 @@
     "streamURL": "https://stream.saunaradio.com/stream",
     "countryCode": "SE",
     "city": "Stockholm",
-    "patternIndex": 20
+    "patternIndex": 20,
+    "websiteURL": "https://www.saunaradio.com",
+    "soundcloudURL": "https://soundcloud.com/sauna-radio",
+    "instagramURL": "https://instagram.com/saunaradio.sthlm"
   },
   {
     "id": "rough-radio",
@@ -165,7 +214,10 @@
     "streamURL": "https://roughradio1.out.airtime.pro/roughradio1_a",
     "countryCode": "IT",
     "city": "Rome",
-    "patternIndex": 21
+    "patternIndex": 21,
+    "websiteURL": "https://roughradio.live",
+    "soundcloudURL": "https://soundcloud.com/rough-radio",
+    "instagramURL": "https://instagram.com/rough.radio"
   },
   {
     "id": "pinataradio",
@@ -173,7 +225,10 @@
     "streamURL": "https://listen.radioking.com/radio/96031/stream/134656",
     "countryCode": "FR",
     "city": "Montpellier",
-    "patternIndex": 22
+    "patternIndex": 22,
+    "websiteURL": "https://www.pinataradio.com",
+    "soundcloudURL": "https://soundcloud.com/pinataradio",
+    "instagramURL": "https://instagram.com/pinata_radio"
   },
   {
     "id": "ida_radio",
@@ -181,7 +236,10 @@
     "streamURL": "https://broadcast.idaidaida.net:8000/stream",
     "countryCode": "EE",
     "city": "Tallinn",
-    "patternIndex": 23
+    "patternIndex": 23,
+    "websiteURL": "https://idaidaida.net",
+    "soundcloudURL": "https://soundcloud.com/ida_radio",
+    "instagramURL": "https://instagram.com/ida.radio"
   },
   {
     "id": "stegi-radio-athens",
@@ -189,7 +247,10 @@
     "streamURL": "https://movementathens.out.airtime.pro/movementathens_a",
     "countryCode": "GR",
     "city": "Athens",
-    "patternIndex": 24
+    "patternIndex": 24,
+    "websiteURL": "https://stegi.radio",
+    "soundcloudURL": "https://soundcloud.com/stegi-radio-athens",
+    "instagramURL": "https://instagram.com/stegiradio"
   },
   {
     "id": "comala-radio",
@@ -197,7 +258,10 @@
     "streamURL": "https://play.radioking.io/supag",
     "countryCode": "FR",
     "city": "Lille",
-    "patternIndex": 25
+    "patternIndex": 25,
+    "websiteURL": "https://www.comalaradio.com",
+    "soundcloudURL": "https://soundcloud.com/comala-radio",
+    "instagramURL": "https://instagram.com/comalaradio"
   },
   {
     "id": "hydefm",
@@ -205,7 +269,10 @@
     "streamURL": "https://hydefmradio.out.airtime.pro/hydefmradio_a",
     "countryCode": "US",
     "city": "San Francisco",
-    "patternIndex": 26
+    "patternIndex": 26,
+    "websiteURL": "https://hydefm.com",
+    "soundcloudURL": "https://soundcloud.com/hydefm",
+    "instagramURL": "https://instagram.com/hydefmradio"
   },
   {
     "id": "particlefm",
@@ -213,7 +280,10 @@
     "streamURL": "https://azuracast.particle.fm/radio/8000/radio.mp3",
     "countryCode": "US",
     "city": "San Diego",
-    "patternIndex": 27
+    "patternIndex": 27,
+    "websiteURL": "https://www.particle.fm",
+    "soundcloudURL": "https://soundcloud.com/particlefm",
+    "instagramURL": "https://instagram.com/particlefm"
   },
   {
     "id": "strandedfm",
@@ -221,7 +291,10 @@
     "streamURL": "https://stream.zeno.fm/ka4cvltzp5pvv",
     "countryCode": "NL",
     "city": "Utrecht",
-    "patternIndex": 1
+    "patternIndex": 1,
+    "websiteURL": "https://stranded.fm",
+    "soundcloudURL": "https://soundcloud.com/strandedfm",
+    "instagramURL": "https://instagram.com/strandedfm"
   },
   {
     "id": "frittofm",
@@ -229,7 +302,10 @@
     "streamURL": "https://frittofm2020.out.airtime.pro/frittofm2020_b",
     "countryCode": "IT",
     "city": "Milan",
-    "patternIndex": 2
+    "patternIndex": 2,
+    "websiteURL": "https://fritto.fm",
+    "soundcloudURL": "https://soundcloud.com/frittofm",
+    "instagramURL": "https://instagram.com/frittofm"
   },
   {
     "id": "loosefm",
@@ -237,7 +313,10 @@
     "streamURL": "https://loosefm.radiocult.fm/stream",
     "countryCode": "GB",
     "city": "London",
-    "patternIndex": 3
+    "patternIndex": 3,
+    "websiteURL": "https://www.loose.fm",
+    "soundcloudURL": "https://soundcloud.com/loosefm",
+    "instagramURL": "https://instagram.com/loose.fm"
   },
   {
     "id": "sistermidnightfm",
@@ -245,7 +324,10 @@
     "streamURL": "https://stream.radio.co/s35e4926a1/listen",
     "countryCode": "GB",
     "city": "London",
-    "patternIndex": 4
+    "patternIndex": 4,
+    "websiteURL": "https://radio.sistermidnight.org",
+    "soundcloudURL": "https://soundcloud.com/sistermidnightfm",
+    "instagramURL": "https://instagram.com/sistermidnightfm"
   },
   {
     "id": "pilotradio",
@@ -253,7 +335,10 @@
     "streamURL": "https://stream.p37.io/stream",
     "countryCode": "DE",
     "city": "Aachen",
-    "patternIndex": 5
+    "patternIndex": 5,
+    "websiteURL": "https://pilot.radio.fm",
+    "soundcloudURL": "https://soundcloud.com/pilotradio",
+    "instagramURL": "https://instagram.com/pilot.radio.fm"
   },
   {
     "id": "mouthfullradio",
@@ -261,7 +346,10 @@
     "streamURL": "https://mouthfull-radio.radiocult.fm/stream",
     "countryCode": "NZ",
     "city": "Aotearoa",
-    "patternIndex": 6
+    "patternIndex": 6,
+    "websiteURL": "https://mouthfull.live",
+    "soundcloudURL": "https://soundcloud.com/mouthfullradio",
+    "instagramURL": "https://instagram.com/__mouthfull__"
   },
   {
     "id": "retreatradio",
@@ -269,7 +357,10 @@
     "streamURL": "https://retreatradio.out.airtime.pro/retreatradio_b",
     "countryCode": "SE",
     "city": "Malmö",
-    "patternIndex": 7
+    "patternIndex": 7,
+    "websiteURL": "https://www.retreatradio.net",
+    "soundcloudURL": "https://soundcloud.com/retreatradio",
+    "instagramURL": "https://instagram.com/retreatradio"
   },
   {
     "id": "seydisfjordur",
@@ -277,7 +368,10 @@
     "streamURL": "https://seyisfjorur-community-radio.radiocult.fm/stream",
     "countryCode": "IS",
     "city": "Seyðisfjörður",
-    "patternIndex": 8
+    "patternIndex": 8,
+    "websiteURL": "https://seydisfjordurcommunityradio.net",
+    "soundcloudURL": "https://soundcloud.com/seydisfjordur",
+    "instagramURL": "https://instagram.com/seydisfjordur.community.radio"
   },
   {
     "id": "radio-relativa",
@@ -285,6 +379,9 @@
     "streamURL": "https://streamer.radio.co/sd6131729c/listen",
     "countryCode": "ES",
     "city": "Madrid",
-    "patternIndex": 9
+    "patternIndex": 9,
+    "websiteURL": "https://radiorelativa.eu",
+    "soundcloudURL": "https://soundcloud.com/radio-relativa",
+    "instagramURL": "https://instagram.com/relativaradio"
   }
 ]
