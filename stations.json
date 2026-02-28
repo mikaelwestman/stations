@@ -1,6 +1,6 @@
 [
   {
-    "id": "nts-1",
+    "id": "user-202286394-991268468",
     "name": "NTS Radio",
     "streamURL": "https://stream-relay-geo.ntslive.net/stream",
     "countryCode": "GB",
@@ -8,7 +8,7 @@
     "patternIndex": 1
   },
   {
-    "id": "the-lot-radio",
+    "id": "thelotradio",
     "name": "The Lot Radio",
     "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
     "countryCode": "US",
@@ -16,7 +16,7 @@
     "patternIndex": 2
   },
   {
-    "id": "kiosk-radio",
+    "id": "kioskradio",
     "name": "Kiosk Radio",
     "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_a",
     "countryCode": "BE",
@@ -48,7 +48,7 @@
     "patternIndex": 6
   },
   {
-    "id": "refuge-worldwide",
+    "id": "refugeworldwide",
     "name": "Refuge Worldwide",
     "streamURL": "https://streaming.radio.co/s3699c5e49/listen",
     "countryCode": "DE",
@@ -56,7 +56,7 @@
     "patternIndex": 7
   },
   {
-    "id": "noods-radio",
+    "id": "noodsradio",
     "name": "Noods Radio",
     "streamURL": "https://noods-radio.radiocult.fm/stream",
     "countryCode": "GB",
@@ -64,7 +64,7 @@
     "patternIndex": 8
   },
   {
-    "id": "lyl-radio",
+    "id": "lyl_radio",
     "name": "LYL Radio",
     "streamURL": "https://icecast.lyl.live/live",
     "countryCode": "FR",
@@ -72,7 +72,7 @@
     "patternIndex": 9
   },
   {
-    "id": "radio-raheem",
+    "id": "radioraheem_milano",
     "name": "Radio Raheem",
     "streamURL": "https://radioraheem.out.airtime.pro/radioraheem_a",
     "countryCode": "IT",
@@ -80,7 +80,7 @@
     "patternIndex": 10
   },
   {
-    "id": "mutant-radio",
+    "id": "mutantradio",
     "name": "Mutant Radio",
     "streamURL": "https://listen.radioking.com/radio/282820/stream/328621",
     "countryCode": "GE",
@@ -96,7 +96,7 @@
     "patternIndex": 12
   },
   {
-    "id": "bangkok-community-radio",
+    "id": "bangkokcommunityradio",
     "name": "Bangkok Community Radio",
     "streamURL": "https://bcr.radiocult.fm/stream",
     "countryCode": "TH",
@@ -104,7 +104,7 @@
     "patternIndex": 13
   },
   {
-    "id": "radio-80000",
+    "id": "radio80000",
     "name": "Radio 80000",
     "streamURL": "https://radio80k.out.airtime.pro/radio80k_a",
     "countryCode": "DE",
@@ -120,7 +120,7 @@
     "patternIndex": 15
   },
   {
-    "id": "subtle-radio",
+    "id": "subtleradio",
     "name": "Subtle Radio",
     "streamURL": "https://subtle.out.airtime.pro/subtle_a",
     "countryCode": "GB",
@@ -128,7 +128,7 @@
     "patternIndex": 16
   },
   {
-    "id": "no-signal",
+    "id": "nosignalradio",
     "name": "No Signal",
     "streamURL": "https://no-signal.radiocult.fm/stream",
     "countryCode": "GB",
@@ -136,7 +136,7 @@
     "patternIndex": 17
   },
   {
-    "id": "voices-radio",
+    "id": "voicesradio_ldn",
     "name": "Voices Radio",
     "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
     "countryCode": "GB",
@@ -144,7 +144,7 @@
     "patternIndex": 18
   },
   {
-    "id": "kurs-radio",
+    "id": "kurs_radio",
     "name": "Kurs Radio",
     "streamURL": "https://listen9.myradio24.com/kursradio",
     "countryCode": "RU",
@@ -168,7 +168,7 @@
     "patternIndex": 21
   },
   {
-    "id": "pinata-radio",
+    "id": "pinataradio",
     "name": "Pinata Radio",
     "streamURL": "https://listen.radioking.com/radio/96031/stream/134656",
     "countryCode": "FR",
@@ -176,7 +176,7 @@
     "patternIndex": 22
   },
   {
-    "id": "ida-radio",
+    "id": "ida_radio",
     "name": "IDA Radio",
     "streamURL": "https://broadcast.idaidaida.net:8000/stream",
     "countryCode": "EE",
@@ -184,7 +184,7 @@
     "patternIndex": 23
   },
   {
-    "id": "stegi-radio",
+    "id": "stegi-radio-athens",
     "name": "Stegi Radio",
     "streamURL": "https://movementathens.out.airtime.pro/movementathens_a",
     "countryCode": "GR",
@@ -200,7 +200,7 @@
     "patternIndex": 25
   },
   {
-    "id": "hyde-fm",
+    "id": "hydefm",
     "name": "Hyde FM",
     "streamURL": "https://hydefmradio.out.airtime.pro/hydefmradio_a",
     "countryCode": "US",
@@ -208,7 +208,7 @@
     "patternIndex": 26
   },
   {
-    "id": "particle-fm",
+    "id": "particlefm",
     "name": "Particle FM",
     "streamURL": "https://azuracast.particle.fm/radio/8000/radio.mp3",
     "countryCode": "US",
@@ -216,7 +216,7 @@
     "patternIndex": 27
   },
   {
-    "id": "stranded-fm",
+    "id": "strandedfm",
     "name": "Stranded FM",
     "streamURL": "https://stream.zeno.fm/ka4cvltzp5pvv",
     "countryCode": "NL",
@@ -224,7 +224,7 @@
     "patternIndex": 1
   },
   {
-    "id": "fritto-fm",
+    "id": "frittofm",
     "name": "Fritto FM",
     "streamURL": "https://frittofm2020.out.airtime.pro/frittofm2020_b",
     "countryCode": "IT",
@@ -232,7 +232,7 @@
     "patternIndex": 2
   },
   {
-    "id": "loose-fm",
+    "id": "loosefm",
     "name": "Loose FM",
     "streamURL": "https://loosefm.radiocult.fm/stream",
     "countryCode": "GB",
@@ -240,7 +240,7 @@
     "patternIndex": 3
   },
   {
-    "id": "sister-midnight-fm",
+    "id": "sistermidnightfm",
     "name": "Sister Midnight FM",
     "streamURL": "https://stream.radio.co/s35e4926a1/listen",
     "countryCode": "GB",
@@ -248,7 +248,7 @@
     "patternIndex": 4
   },
   {
-    "id": "pilot-radio",
+    "id": "pilotradio",
     "name": "Pilot Radio",
     "streamURL": "https://stream.p37.io/stream",
     "countryCode": "DE",
@@ -256,7 +256,7 @@
     "patternIndex": 5
   },
   {
-    "id": "mouthfull-radio",
+    "id": "mouthfullradio",
     "name": "Mouthfull Radio",
     "streamURL": "https://mouthfull-radio.radiocult.fm/stream",
     "countryCode": "NZ",
@@ -264,7 +264,7 @@
     "patternIndex": 6
   },
   {
-    "id": "retreat-radio",
+    "id": "retreatradio",
     "name": "Retreat Radio",
     "streamURL": "https://retreatradio.out.airtime.pro/retreatradio_b",
     "countryCode": "SE",
@@ -272,7 +272,7 @@
     "patternIndex": 7
   },
   {
-    "id": "seydisfjordur-community-radio",
+    "id": "seydisfjordur",
     "name": "Seyðisfjörður Community Radio",
     "streamURL": "https://seyisfjorur-community-radio.radiocult.fm/stream",
     "countryCode": "IS",
