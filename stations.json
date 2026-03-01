@@ -1,16 +1,5 @@
 [
   {
-    "id": "thelotradio",
-    "name": "The Lot Radio",
-    "streamURL": "https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8",
-    "countryCode": "US",
-    "city": "New York City",
-    "patternIndex": 2,
-    "websiteURL": "https://www.thelotradio.com",
-    "soundcloudURL": "https://soundcloud.com/thelotradio",
-    "instagramURL": "https://instagram.com/thelotradio"
-  },
-  {
     "id": "kioskradio",
     "name": "Kiosk Radio",
     "streamURL": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_a",
@@ -121,17 +110,6 @@
     "instagramURL": "https://instagram.com/ehfm_live"
   },
   {
-    "id": "bangkokcommunityradio",
-    "name": "Bangkok Community Radio",
-    "streamURL": "https://bcr.radiocult.fm/stream",
-    "countryCode": "TH",
-    "city": "Bangkok",
-    "patternIndex": 13,
-    "websiteURL": "https://www.bangkokcommunityradio.com",
-    "soundcloudURL": "https://soundcloud.com/bangkokcommunityradio",
-    "instagramURL": "https://instagram.com/bangkokcommunityradio"
-  },
-  {
     "id": "radio80000",
     "name": "Radio 80000",
     "streamURL": "https://radio80k.out.airtime.pro/radio80k_a",
@@ -185,17 +163,6 @@
     "websiteURL": "https://www.voicesradio.co.uk",
     "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
     "instagramURL": "https://instagram.com/voices_radio"
-  },
-  {
-    "id": "kurs_radio",
-    "name": "Kurs Radio",
-    "streamURL": "https://listen9.myradio24.com/kursradio",
-    "countryCode": "RU",
-    "city": "Moscow",
-    "patternIndex": 19,
-    "websiteURL": "https://kursradio.live",
-    "soundcloudURL": "https://soundcloud.com/kurs_radio",
-    "instagramURL": "https://instagram.com/kurs.radio"
   },
   {
     "id": "sauna-radio",
@@ -262,17 +229,6 @@
     "websiteURL": "https://www.comalaradio.com",
     "soundcloudURL": "https://soundcloud.com/comala-radio",
     "instagramURL": "https://instagram.com/comalaradio"
-  },
-  {
-    "id": "hydefm",
-    "name": "Hyde FM",
-    "streamURL": "https://hydefmradio.out.airtime.pro/hydefmradio_a",
-    "countryCode": "US",
-    "city": "San Francisco",
-    "patternIndex": 26,
-    "websiteURL": "https://hydefm.com",
-    "soundcloudURL": "https://soundcloud.com/hydefm",
-    "instagramURL": "https://instagram.com/hydefmradio"
   },
   {
     "id": "particlefm",
