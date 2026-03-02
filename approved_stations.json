@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ida_radio",
+    "name": "IDA Radio",
+    "streamURL": "https://broadcast.idaidaida.net:8000/stream",
+    "countryCode": "EE",
+    "city": "Tallinn",
+    "patternIndex": 23,
+    "websiteURL": "https://idaidaida.net",
+    "soundcloudURL": "https://soundcloud.com/ida_radio",
+    "instagramURL": "https://instagram.com/ida.radio"
+  },
+  {
+    "id": "mouthfullradio",
+    "name": "Mouthfull Radio",
+    "streamURL": "https://mouthfull-radio.radiocult.fm/stream",
+    "countryCode": "NZ",
+    "city": "Aotearoa",
+    "patternIndex": 6,
+    "websiteURL": "https://mouthfull.live",
+    "soundcloudURL": "https://soundcloud.com/mouthfullradio",
+    "instagramURL": "https://instagram.com/__mouthfull__"
+  }
+]
