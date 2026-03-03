@@ -6,6 +6,7 @@
     "countryCode": "EE",
     "city": "Tallinn",
     "patternIndex": 23,
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/ida_radio.png",
     "websiteURL": "https://idaidaida.net",
     "soundcloudURL": "https://soundcloud.com/ida_radio",
     "instagramURL": "https://instagram.com/ida.radio"
@@ -17,6 +18,7 @@
     "countryCode": "SE",
     "city": "Stockholm",
     "patternIndex": 20,
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/sauna-radio.png",
     "websiteURL": "https://www.saunaradio.com",
     "soundcloudURL": "https://soundcloud.com/sauna-radio",
     "instagramURL": "https://instagram.com/saunaradio.sthlm"
@@ -28,6 +30,7 @@
     "countryCode": "NZ",
     "city": "Aotearoa",
     "patternIndex": 6,
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/mouthfullradio.png",
     "websiteURL": "https://mouthfull.live",
     "soundcloudURL": "https://soundcloud.com/mouthfullradio",
     "instagramURL": "https://instagram.com/__mouthfull__"
@@ -39,6 +42,7 @@
     "countryCode": "IS",
     "city": "Seyðisfjörður",
     "patternIndex": 8,
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/seydisfjordur.png",
     "websiteURL": "https://seydisfjordurcommunityradio.net",
     "soundcloudURL": "https://soundcloud.com/seydisfjordur",
     "instagramURL": "https://instagram.com/seydisfjordur.community.radio"
@@ -50,6 +54,7 @@
     "countryCode": "SE",
     "city": "Malmö",
     "patternIndex": 7,
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/retreatradio.png",
     "websiteURL": "https://www.retreatradio.net",
     "soundcloudURL": "https://soundcloud.com/retreatradio",
     "instagramURL": "https://instagram.com/retreatradio"
@@ -61,6 +66,7 @@
     "countryCode": "NL",
     "city": "Utrecht",
     "patternIndex": 1,
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/strandedfm.png",
     "websiteURL": "https://stranded.fm",
     "soundcloudURL": "https://soundcloud.com/strandedfm",
     "instagramURL": "https://instagram.com/strandedfm"
