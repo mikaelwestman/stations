@@ -11,6 +11,17 @@
     "instagramURL": "https://instagram.com/ida.radio"
   },
   {
+    "id": "sauna-radio",
+    "name": "Sauna Radio",
+    "streamURL": "https://stream.saunaradio.com/stream",
+    "countryCode": "SE",
+    "city": "Stockholm",
+    "patternIndex": 20,
+    "websiteURL": "https://www.saunaradio.com",
+    "soundcloudURL": "https://soundcloud.com/sauna-radio",
+    "instagramURL": "https://instagram.com/saunaradio.sthlm"
+  },
+  {
     "id": "mouthfullradio",
     "name": "Mouthfull Radio",
     "streamURL": "https://mouthfull-radio.radiocult.fm/stream",
@@ -20,5 +31,27 @@
     "websiteURL": "https://mouthfull.live",
     "soundcloudURL": "https://soundcloud.com/mouthfullradio",
     "instagramURL": "https://instagram.com/__mouthfull__"
+  },
+  {
+    "id": "seydisfjordur",
+    "name": "Seyðisfjörður Community Radio",
+    "streamURL": "https://seyisfjorur-community-radio.radiocult.fm/stream",
+    "countryCode": "IS",
+    "city": "Seyðisfjörður",
+    "patternIndex": 8,
+    "websiteURL": "https://seydisfjordurcommunityradio.net",
+    "soundcloudURL": "https://soundcloud.com/seydisfjordur",
+    "instagramURL": "https://instagram.com/seydisfjordur.community.radio"
+  },
+  {
+    "id": "rough-radio",
+    "name": "Rough Radio",
+    "streamURL": "https://roughradio1.out.airtime.pro/roughradio1_a",
+    "countryCode": "IT",
+    "city": "Rome",
+    "patternIndex": 21,
+    "websiteURL": "https://roughradio.live",
+    "soundcloudURL": "https://soundcloud.com/rough-radio",
+    "instagramURL": "https://instagram.com/rough.radio"
   }
 ]
