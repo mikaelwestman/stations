@@ -13,7 +13,7 @@
   {
     "id": "sauna-radio",
     "name": "Sauna Radio",
-    "streamURL": "https://stream.saunaradio.com/stream",
+    "streamURL": "https://stream.saunaradio.com/listen.m3u",
     "countryCode": "SE",
     "city": "Stockholm",
     "patternIndex": 20,
@@ -53,5 +53,16 @@
     "websiteURL": "https://www.retreatradio.net",
     "soundcloudURL": "https://soundcloud.com/retreatradio",
     "instagramURL": "https://instagram.com/retreatradio"
+  },
+  {
+    "id": "strandedfm",
+    "name": "Stranded FM",
+    "streamURL": "https://origin.streamnerd.nl/strandedfm/strandedfm/playlist.m3u8",
+    "countryCode": "NL",
+    "city": "Utrecht",
+    "patternIndex": 1,
+    "websiteURL": "https://stranded.fm",
+    "soundcloudURL": "https://soundcloud.com/strandedfm",
+    "instagramURL": "https://instagram.com/strandedfm"
   }
 ]
