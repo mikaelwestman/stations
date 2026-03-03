@@ -44,14 +44,14 @@
     "instagramURL": "https://instagram.com/seydisfjordur.community.radio"
   },
   {
-    "id": "rough-radio",
-    "name": "Rough Radio",
-    "streamURL": "https://roughradio1.out.airtime.pro/roughradio1_a",
-    "countryCode": "IT",
-    "city": "Rome",
-    "patternIndex": 21,
-    "websiteURL": "https://roughradio.live",
-    "soundcloudURL": "https://soundcloud.com/rough-radio",
-    "instagramURL": "https://instagram.com/rough.radio"
+    "id": "retreatradio",
+    "name": "Retreat Radio",
+    "streamURL": "https://retreatradio.out.airtime.pro/retreatradio_b",
+    "countryCode": "SE",
+    "city": "Malmö",
+    "patternIndex": 7,
+    "websiteURL": "https://www.retreatradio.net",
+    "soundcloudURL": "https://soundcloud.com/retreatradio",
+    "instagramURL": "https://instagram.com/retreatradio"
   }
 ]
