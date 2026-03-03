@@ -70,5 +70,17 @@
     "websiteURL": "https://stranded.fm",
     "soundcloudURL": "https://soundcloud.com/strandedfm",
     "instagramURL": "https://instagram.com/strandedfm"
+  },
+  {
+    "id": "sistermidnightfm",
+    "name": "Sister Midnight FM",
+    "streamURL": "https://stream.radio.co/s35e4926a1/listen",
+    "countryCode": "GB",
+    "city": "London",
+    "patternIndex": 4,
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/sistermidnightfm.png",
+    "websiteURL": "https://radio.sistermidnight.org",
+    "soundcloudURL": "https://soundcloud.com/sistermidnightfm",
+    "instagramURL": "https://instagram.com/sistermidnightfm"
   }
 ]
