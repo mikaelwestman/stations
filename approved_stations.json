@@ -13,7 +13,7 @@
   {
     "id": "sauna-radio",
     "name": "Sauna Radio",
-    "streamURL": "https://stream.saunaradio.com/listen.m3u",
+    "streamURL": "https://stream.saunaradio.com/live",
     "countryCode": "SE",
     "city": "Stockholm",
     "patternIndex": 20,
