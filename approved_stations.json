@@ -1,22 +1,22 @@
 [
   {
-    "id": "ida_radio",
+    "id": "idaradio",
     "name": "IDA Radio",
     "streamURL": "https://broadcast.idaidaida.net:8000/stream",
     "countryCode": "EE",
     "city": "Tallinn",
-    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/ida_radio.png",
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/idaradio.png",
     "websiteURL": "https://idaidaida.net",
     "soundcloudURL": "https://soundcloud.com/ida_radio",
     "instagramURL": "https://instagram.com/ida.radio"
   },
   {
-    "id": "sauna-radio",
+    "id": "saunaradio",
     "name": "Sauna Radio",
     "streamURL": "https://stream.saunaradio.com/live",
     "countryCode": "SE",
     "city": "Stockholm",
-    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/sauna-radio.png",
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/saunaradio.png",
     "websiteURL": "https://www.saunaradio.com",
     "soundcloudURL": "https://soundcloud.com/sauna-radio",
     "instagramURL": "https://instagram.com/saunaradio.sthlm"
@@ -86,5 +86,16 @@
     "websiteURL": "https://www.voicesradio.co.uk",
     "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
     "instagramURL": "https://instagram.com/voices_radio"
+  },
+  {
+    "id": "radio-relativa",
+    "name": "Radio Relativa",
+    "streamURL": "https://streamer.radio.co/sd6131729c/listen",
+    "countryCode": "ES",
+    "city": "Madrid",
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/radiorelativa.png",
+    "websiteURL": "https://radiorelativa.eu",
+    "soundcloudURL": "https://soundcloud.com/radio-relativa",
+    "instagramURL": "https://instagram.com/relativaradio"
   }
 ]
