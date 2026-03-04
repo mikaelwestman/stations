@@ -82,6 +82,7 @@
     "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
     "countryCode": "GB",
     "city": "London",
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/voicesradio.png",
     "websiteURL": "https://www.voicesradio.co.uk",
     "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
     "instagramURL": "https://instagram.com/voices_radio"
