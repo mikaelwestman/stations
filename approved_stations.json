@@ -75,5 +75,15 @@
     "websiteURL": "https://radio.sistermidnight.org",
     "soundcloudURL": "https://soundcloud.com/sistermidnightfm",
     "instagramURL": "https://instagram.com/sistermidnightfm"
+  },
+  {
+    "id": "voicesradio",
+    "name": "Voices Radio",
+    "streamURL": "https://voicesradio.out.airtime.pro/voicesradio_a",
+    "countryCode": "GB",
+    "city": "London",
+    "websiteURL": "https://www.voicesradio.co.uk",
+    "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
+    "instagramURL": "https://instagram.com/voices_radio"
   }
 ]
