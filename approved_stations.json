@@ -8,7 +8,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/idaradio.png",
     "websiteURL": "https://idaidaida.net",
     "soundcloudURL": "https://soundcloud.com/ida_radio",
-    "instagramURL": "https://instagram.com/ida.radio"
+    "instagramURL": "https://instagram.com/ida.radio",
+    "patternIndex": 1
   },
   {
     "id": "saunaradio",
@@ -19,7 +20,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/saunaradio.png",
     "websiteURL": "https://www.saunaradio.com",
     "soundcloudURL": "https://soundcloud.com/sauna-radio",
-    "instagramURL": "https://instagram.com/saunaradio.sthlm"
+    "instagramURL": "https://instagram.com/saunaradio.sthlm",
+    "patternIndex": 2
   },
   {
     "id": "mouthfullradio",
@@ -30,7 +32,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/mouthfullradio.png",
     "websiteURL": "https://mouthfull.live",
     "soundcloudURL": "https://soundcloud.com/mouthfullradio",
-    "instagramURL": "https://instagram.com/__mouthfull__"
+    "instagramURL": "https://instagram.com/__mouthfull__",
+    "patternIndex": 3
   },
   {
     "id": "seydisfjordur",
@@ -41,7 +44,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/seydisfjordur.png",
     "websiteURL": "https://seydisfjordurcommunityradio.net",
     "soundcloudURL": "https://soundcloud.com/seydisfjordur",
-    "instagramURL": "https://instagram.com/seydisfjordur.community.radio"
+    "instagramURL": "https://instagram.com/seydisfjordur.community.radio",
+    "patternIndex": 4
   },
   {
     "id": "retreatradio",
@@ -52,7 +56,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/retreatradio.png",
     "websiteURL": "https://www.retreatradio.net",
     "soundcloudURL": "https://soundcloud.com/retreatradio",
-    "instagramURL": "https://instagram.com/retreatradio"
+    "instagramURL": "https://instagram.com/retreatradio",
+    "patternIndex": 5
   },
   {
     "id": "strandedfm",
@@ -63,7 +68,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/strandedfm.png",
     "websiteURL": "https://stranded.fm",
     "soundcloudURL": "https://soundcloud.com/strandedfm",
-    "instagramURL": "https://instagram.com/strandedfm"
+    "instagramURL": "https://instagram.com/strandedfm",
+    "patternIndex": 6
   },
   {
     "id": "sistermidnight",
@@ -74,7 +80,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/sistermidnight.png",
     "websiteURL": "https://radio.sistermidnight.org",
     "soundcloudURL": "https://soundcloud.com/sistermidnightfm",
-    "instagramURL": "https://instagram.com/sistermidnightfm"
+    "instagramURL": "https://instagram.com/sistermidnightfm",
+    "patternIndex": 7
   },
   {
     "id": "voicesradio",
@@ -85,7 +92,8 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/voicesradio.png",
     "websiteURL": "https://www.voicesradio.co.uk",
     "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
-    "instagramURL": "https://instagram.com/voices_radio"
+    "instagramURL": "https://instagram.com/voices_radio",
+    "patternIndex": 8
   },
   {
     "id": "radio-relativa",
@@ -96,6 +104,7 @@
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/radiorelativa.png",
     "websiteURL": "https://radiorelativa.eu",
     "soundcloudURL": "https://soundcloud.com/radio-relativa",
-    "instagramURL": "https://instagram.com/relativaradio"
+    "instagramURL": "https://instagram.com/relativaradio",
+    "patternIndex": 9
   }
 ]
