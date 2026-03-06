@@ -94,5 +94,17 @@
     "soundcloudURL": "https://soundcloud.com/voicesradio_ldn",
     "instagramURL": "https://instagram.com/voices_radio",
     "patternIndex": 8
+  },
+  {
+    "id": "pilotradio",
+    "name": "Pilot Radio",
+    "streamURL": "https://stream.p37.io/restream",
+    "countryCode": "DE",
+    "city": "Aachen",
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/pilotradio.png",
+    "websiteURL": "https://pilot.radio.fm",
+    "soundcloudURL": "https://soundcloud.com/pilotradio",
+    "instagramURL": "https://instagram.com/pilot.radio.fm"
+    "patternIndex": 9
   }
 ]
