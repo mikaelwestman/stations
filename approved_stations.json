@@ -62,7 +62,7 @@
   {
     "id": "strandedfm",
     "name": "Stranded FM",
-    "streamURL": "https://origin.streamnerd.nl/strandedfm/strandedfm/playlist.m3u8",
+    "streamURL": "https://origin.streamnerd.nl/strandedfm/strandedfm/icecast.audio",
     "countryCode": "NL",
     "city": "Utrecht",
     "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/strandedfm.png",
