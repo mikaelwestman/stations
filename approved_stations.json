@@ -118,5 +118,17 @@
     "soundcloudURL": "https://soundcloud.com/radio80000",
     "instagramURL": "https://instagram.com/radio80000",
     "patternIndex": 10
+  },
+  {
+    "id": "radioalhara",
+    "name": "Radio Alhara",
+    "streamURL": "http://n0a.radiojar.com/78cxy6wkxtzuv",
+    "countryCode": "PS",
+    "city": "Betlehem",
+    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/radioalhara.png",
+    "websiteURL": "https://radioalhara.net/",
+    "soundcloudURL": "https://soundcloud.com/radioalhara",
+    "instagramURL": "https://www.instagram.com/radioalhara/",
+    "patternIndex": 11
   }
 ]
