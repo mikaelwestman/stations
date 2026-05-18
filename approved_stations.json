@@ -130,17 +130,5 @@
     "soundcloudURL": "https://soundcloud.com/radioalhara",
     "instagramURL": "https://www.instagram.com/radioalhara/",
     "patternIndex": 11
-  },
-  {
-    "id": "rotationradio",
-    "name": "Rotation Radio",
-    "streamURL": "https://rotation-radio-befbc736.radiocult.fm/stream",
-    "countryCode": "SE",
-    "city": "Stockholm",
-    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/rotationradio.png",
-    "websiteURL": "https://rotationradio.fm/",
-    "soundcloudURL": "https://soundcloud.com/rotation-radio-928469378",
-    "instagramURL": "https://www.instagram.com/rotationradio.fm",
-    "patternIndex": 12
   }
 ]
