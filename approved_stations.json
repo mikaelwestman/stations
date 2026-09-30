@@ -60,18 +60,6 @@
     "patternIndex": 5
   },
   {
-    "id": "strandedfm",
-    "name": "Stranded FM",
-    "streamURL": "https://origin.streamnerd.nl/strandedfm/strandedfm/icecast.audio",
-    "countryCode": "NL",
-    "city": "Utrecht",
-    "avatarURL": "https://raw.githubusercontent.com/mikaelwestman/stations/main/avatars/strandedfm.png",
-    "websiteURL": "https://stranded.fm",
-    "soundcloudURL": "https://soundcloud.com/strandedfm",
-    "instagramURL": "https://instagram.com/strandedfm",
-    "patternIndex": 6
-  },
-  {
     "id": "sistermidnight",
     "name": "Sister Midnight",
     "streamURL": "http://sister-midnight-fm.radiocult.fm/stream",
